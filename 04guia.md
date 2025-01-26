@@ -1,4 +1,4 @@
-## Guía Didáctica
+# Guía Didáctica
 
 :::{admonition} Información Básica
 :class: note

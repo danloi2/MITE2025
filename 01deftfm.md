@@ -79,15 +79,6 @@ La estructura típica de un **TFM** incluye los siguientes apartados:
 Elección del enfoque de investigación
 :::
 
-
-
-
-
-
-
-
-
-
 ::::{tab-set}
 
 :::{tab-item} Investigación Cuantitativa
@@ -113,8 +104,19 @@ Elección del enfoque de investigación
 
 ### ¿Cuáles son las metodologías que recomienda el Máster en Educación Digital?
 
-- **Investigación de análisis del funcionamiento de diferentes ámbitos de los sistemas educativos y las tecnologías digitales (TD)**: Estudios sobre el impacto de las tecnologías digitales en la educación, o investigaciones comparativas sobre modelos educativos apoyados en las TD.
-  
-- **Revisión Sistemática de la Literatura (RSL)**: Revisión bibliográfica sobre temáticas específicas de investigación en Tecnología Educativa o sobre determinadas fuentes especializadas en esta área.
+::::{tab-set}
 
+:::{tab-item} Investigación Cuantitativa
+- **Investigación de análisis del funcionamiento de diferentes ámbitos de los sistemas educativos y las tecnologías digitales (TD)**: Estudios sobre el impacto de las tecnologías digitales en la educación, o investigaciones comparativas sobre modelos educativos apoyados en las TD.
+:::
+
+:::{tab-item} Investigación Cualitativa
+- **Revisión Sistemática de la Literatura (RSL)**: Revisión bibliográfica sobre temáticas específicas de investigación en Tecnología Educativa o sobre determinadas fuentes especializadas en esta área.
+:::
+
+:::{tab-item} Investigación Mixta
 - **Investigación aplicada**: Estudio de caso sobre la integración de las tecnologías digitales en la actividad educativa formal, no formal o informal.
+::::
+
+
+

@@ -10,8 +10,6 @@
         
 La documentación oficial:
 
-* `Descargar Guía del Máster en PDF <_static/recursos/2025_Guia.pdf>`_
-
-* `Descargar Guía de la Asignatura en PDF <_static/recursos/2025_GuiaMITE.pdf>`_
-
-* `Descargar Guía Calendario en PDF <_static/recursos/2025_Calendario.pdf>`_
+* [Guía del Máster](recursos/2025_Guia.pdf)
+* [Calendario del Máster](recursos/2025_Calendario.pdf)
+* [Guía Didáctica de MITE](recursos/2025_GuiaMITE.pdf)

@@ -20,7 +20,7 @@ project:
       - Funding acquisition
       - Investigation
       - Methodology
-      - Project administration
+      - Project administrationhttps://github.com/danloi2/MITE2025
       - Software
       - Resources
       - Supervision
@@ -41,7 +41,7 @@ project:
         phone: 943 01 70 36
         email: daniel.losada@ehu.eus
   
-  # github:
+  github: https://github.com/danloi2/MITE2025
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
   toc:
@@ -49,7 +49,14 @@ project:
     - file: index.md
     - file: 01deftfm.md
     - file: 02tareas.md
+    - file: 021objetivosp.md
+    - file: 022posicion.md 
+    - file: 023bases.md
+    - file: 024problema.md
+    - file: 025preguntas.md
+    - file: 026diseno.md
     - file: 03final.md
+    - file: 031proyecto.md
     - file: 04guia.md
     - file: 05cred.md
 

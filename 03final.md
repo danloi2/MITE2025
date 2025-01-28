@@ -2,7 +2,7 @@
 
 La siguiente tabla recoge los apartados del Trabajo Fin de Master en Educación Digital y en negrita, los apartados del Proyecto de TFM:
 
-```{list-table} APARTADOS TFM
+:::{list-table} APARTADOS TFM
 :header-rows: 1
 :widths: 15 65 10 10
 :name:tfm
@@ -83,4 +83,4 @@ La siguiente tabla recoge los apartados del Trabajo Fin de Master en Educación 
   - Gráficos, datos originales, transcripciones y otros documentos que aporten aspectos significativos complementarios al texto de la memoria de investigación.
   - Optativo
   - -
-```
+:::

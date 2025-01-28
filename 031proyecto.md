@@ -61,10 +61,10 @@ El objetivo de esta tarea es **redactar el Proyecto de Investigación teniendo e
 
 
 
-```{list-table} APARTADOS TFM
+:::{list-table} APARTADOS TFM
 :header-rows: 1
 :widths: 15 65 10 10
-:name:tfm
+:name:proyecto
 
 * - Sección
   - Descripción
@@ -102,4 +102,4 @@ El objetivo de esta tarea es **redactar el Proyecto de Investigación teniendo e
   - Listado de todas las publicaciones que se han revisado hasta el momento para la elaboración del proyecto, utilizando el formato APA (6ª ed).
   - -
   - -
-```
+:::

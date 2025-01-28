@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!
 
-```{admonition} Información del Profesor
+```{admonition} Información del Profesorado
 :class: dropdown
 
 Mi nombre es [DANIEL LOSADA](https://ekoizpen-zientifikoa.ehu.eus/investigadores/130988/detalle?lang=es), Profesor Titular de la [UPV/EHU](https://www.ehu.eus/es) y coordinador de esta asigntura. Mis compañeros [HÉCTOR GALINDO](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128701/detalle) y [LUCÍA CAMPO](https://ekoizpen-zientifikoa.ehu.eus/investigadores/460495/detalle) también forman parte del equipo docente de esta asignatura.
@@ -143,6 +143,7 @@ Para más detalles sobre cada actividad y acceso a las lecturas, consulta el cam
 :::
 
 
-
+:::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
+:::
 

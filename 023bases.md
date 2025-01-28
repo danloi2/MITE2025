@@ -59,6 +59,13 @@ Conjunto de Trabajos Previos realizados que ayudan a fundamentar la relevancia y
 
 https://www.recursoscientificos.fecyt.es/servicios/formacion/material
 
+
+:::{iframe} https://www.youtube.com/embed/XtY6cI5OlkM?si=OBFwh50__sy9-MBR
+:width: 100%
+WOS
+:::
+
+
 https://www.youtube.com/watch?v=XtY6cI5OlkM 
 https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24-09-17_mis_primeros_pasos_wos.pdf
 

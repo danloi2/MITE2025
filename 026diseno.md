@@ -2,9 +2,9 @@
 
 ---
 
-- **Duración**: 120 minutos  
+- **Fecha de Entrega**: 20/01/2025
 
-- **Agrupamiento**: Individual y Equipo de Trabajo  
+- **{term}`Taxonomía de Bloom`**: Nivel 5 ({term}`Evaluar`) 
 
 ---
 
@@ -16,9 +16,11 @@ El diseño de investigación es un componente esencial para garantizar la riguro
 
 ## Objetivo de Aprendizaje
 
-El objetivo de esta tarea es **explorar y proponer un diseño de investigación adecuado a diferentes tipos de problemas, considerando las características de las tradiciones cuantitativa, cualitativa y mixta**.  
+El objetivo de esta tarea es:
 
----
+:::{pull-quote}
+Justificar un diseño de investigación en base a tu problema, considerando las características de las tradiciones cuantitativa, cualitativa y mixta mediante un tablero o mural digital.
+:::
 
 ## Descripción de la Tarea  
 
@@ -27,64 +29,56 @@ El objetivo de esta tarea es **explorar y proponer un diseño de investigación 
    - Justifica nuestra elección en función de los objetivos del problema planteado.  
 2. **CREA** un tablero o mural digital que resuma las características principales del diseño seleccionado, considerando aspectos:
 
-- DISEÑO DE LA INVESTIGACIÓN
-    - Cuantitativo
-    - Cualitativo
-    - Mixto
-    - Validez interna, validez externa, fiabilidad y objetividad.  
-- HIPÓTESIS Y VARIABLES
-    - Hipótesis
-    - Variables
-- MUESTRA
-    - Participantes
-    - Descripción del Caso
-    - Informantes
-- HERRAMIENTAS PARA LA RECOGIDA DE DATOS
-    - Cuantitativas
-    - Cualitativas
-    - Triangulación de Herramientas y Sujetos
-- PROCESO (Cronograma)
-    - Fase de Planificación
-    - Fase de Recogida de Información
-    - Fase de Análisis
-    - Fase de Difusión
-- HERRAMIENTAS PARA EL ANÁLISIS DE DATOS
-    - Técnicas
-    - Estrategias
-    - Herramientas
-- IMPLICACIONES ÉTICAS
-    - Consentimiento Informado
-    - Plagio
+
+:::{glossary}
+
+Diseño de Investigación
+: (a) Cuantitativo; (b) Cualitativo; (c) Mixto \
+Validez interna, validez externa, fiabilidad y objetividad. 
+
+Hipótesis y Variables
+: (a) Hipótesis; (b) Variables 
+
+Muestra
+: (a) Participantes; (b) Descripción del Caso; (c) Informantes
+
+Herramientas para la Recogida de Datos
+: (a) Cuantitativas; (b) Cualitativas; (c) Triangulación de Herramientas y Sujetos
+
+Proceso
+: (a) Fase de Planificación; (b) Fase de Recogida de Información; (c) Fase de Análisis; (d) Fase de Difusión
+
+Herramientas de Análisis de Datos
+: (a) Técnicas; (b) Estratégias; (c) Herramientas
+
+Implicaciones Éticas
+: (a) Consentimiento Informado; (b) Plagio
+:::
 
 3. **COMPARTE** tu diseño en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 
-## **Recursos**  
+## Recursos  
 
-### Lecturas  
+### Lecturas 
 
-Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos
-Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial.
+Estadística para no estadísticos. {cite:p}`2020galindo`
 
-Entrevista, Grupos Focales, Grupos de Discusión, Observación y análisis de documentos
-Gallego, C. y Tomás, E. M. (2016). *Introducción a los Métodos y Técnicas de Investigación Cualitativa en Ciencias Sociales*. https://ocw.unizar.es/ocw/course/view.php?id=43
+Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos {cite:p}`2017navarro7`
 
-Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos
-Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). Investigar en educación : manual y guía práctica. Síntesis.
+Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa {cite:p}`2017navarro8`
 
-Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa
-Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial
+Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos {cite:p}`2021jorrin7`
 
-Galindo, H. (2020). *Estadística para no estadísticos.Una guía básica sobre la metodología cuantitativa de    trabajos académicos*. 3Ciencias. [](https://dialnet.unirioja.es/descarga/libro/779767.pdf)
+Capítulo 8.- Definiendo estrategias de validez y veracidad {cite:p}`2021jorrin8`
 
-Capítulo 8.- Definiendo estrategias de validez y veracidad
-Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
-
-Capítulo 9. Procedimientos y principios éticos de la investigación**
-Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
+Capítulo 9. Procedimientos y principios éticos de la investigación {cite:p}`2021jorrin9`
 
 ### Recursos TIC 
 
-[EDUapps: Herramientas TIC](https://app.genially.com/teams/6746ef5ade5409fab545c555/spaces/6746ef5ade5409fab545c567/dashboard?from=login-true)
+:::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
+:width: 100%
+Elije la herramienta TIC adecuada
+:::
 
 ## Entregas al Espacio Virtual de Aprendizaje
 

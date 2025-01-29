@@ -1,25 +1,23 @@
-# 7. Entregable: ???
+# 7. Entregable: Redacto el Proyecto de Investigación
 
 ---
 
-- **Duración**: 120 minutos  
+- **Fecha de Entrega**: 23/01/2025
 
-- **Agrupamiento**: Individual y Equipo de Trabajo  
+- **{term}`Taxonomía de Bloom`**:Nivel 6 ({term}`Crear`) 
 
 ---
-
-
-
-# Redacción del Proyecto de Investigación
-
-- **Duración:** 120 minutos
-- **Agrupamiento:** Individual
 
 ## Introducción
+
 En esta actividad, tendrás la oportunidad de redactar el Proyecto de Investigación de tu Trabajo de Fin de Máster (TFM) basado en el Marco Conceptual realizado anteriormente. El documento debe tener en cuenta las convenciones de la escritura académica y ser exportado al formato PDF.
 
 ## Objetivo de Aprendizaje
-El objetivo de esta tarea es **redactar el Proyecto de Investigación teniendo en cuenta las convenciones de la escritura académica y exportarlo al formato PDF**.
+El objetivo de esta tarea es:
+
+:::{pull-quote}
+Construir el Proyecto de Investigación del futuro TFM, teniendo en cuenta las convenciones de la escritura académica.
+:::
 
 ## Descripción de la Tarea
 1. **REDACCIÓN** del Proyecto de Investigación utilizando la plantilla disponible en el campus virtual:
@@ -47,15 +45,26 @@ El objetivo de esta tarea es **redactar el Proyecto de Investigación teniendo e
    - **Referencias**:
      - Listado de todas las publicaciones que se han revisado hasta el momento para la elaboración del proyecto, utilizando el formato APA (7ª ed).
 
-2. **EXPORTA** el documento al formato PDF utilizando Adobe Reader o una herramienta similar.
+2. **EXPORTA** el documento al formato PDF.
 
 ## Recursos
+
+### Lecturas
+
+Capítulo 10. Redacción del informe de investigación {cite:p}`2021jorrin10`
+APA 7 {cite:p}`apaweb`; {cite:p}`2022apaehu`
+
 ### Herramientas TIC
-- Google Docs
-- Microsoft Word Online
-- Adobe Reader
+
+Plantilla MITE
+
+:::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
+:width: 100%
+Elije la herramienta TIC adecuada
+:::
 
 ## Entregas al Espacio Virtual de Aprendizaje
+
 1. Envío del enlace del documento en formato PDF en el foro correspondiente del curso del campus virtual.
 
 :::{list-table} APARTADOS TFM

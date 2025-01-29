@@ -12,7 +12,7 @@ Mi nombre es [DANIEL LOSADA](https://ekoizpen-zientifikoa.ehu.eus/investigadores
 
 A lo largo de estas **próximas tres semanas**, te invitamos a embarcarte en un viaje de descubrimiento y experimentación en la planificación de tu propio **PROYECTO DE TRABAJO FIN DE MÁSTER** en **TÉCNOLOGÍA EDUCATIVA**.  
 
-Te centrarás en desarrollar el **MARCO CONCEPTUAL** de tu investigación, que es el núcleo fundamental de cualquier investigación rigurosa. Todo esto se reduce a la siguiente pregunta clave:  
+Te centrarás en desarrollar el **{term}`MARCO CONCEPTUAL`** de tu investigación, que es el núcleo fundamental de cualquier investigación rigurosa. Todo esto se reduce a la siguiente pregunta clave:  
 
 :::{pull-quote}
 ¿Cómo se diseña un **ESTUDIO CIENTÍFICO** en el ámbito de la **TECNOLOGÍA EDUCATIVA**? 
@@ -69,7 +69,7 @@ Al finalizar, diseñarás un **PROYECTO DE TRABAJO FIN DE MÁSTER**, fundamentad
 
 ## ¿Qué te llevarás de esta asignatura? 
 
-Las competencias investigadoras necesarias para planificar el **MARCO CONCEPTUAL** con los elementos esenciales de un proyecto de investigación en Tecnología Educativa:
+Las competencias investigadoras necesarias para planificar el **{term}`MARCO CONCEPTUAL`**  con los elementos esenciales de un proyecto de investigación en Tecnología Educativa:
  
 - Seleccionar la **TEMÁTICA** de tu investigación realista, teniedo en cuenta tus intereses y necesidades.
 
@@ -96,25 +96,25 @@ Durante el curso desarrollarás 8 actividades clave:
    *  - Actividad
       - Formato de Entrega
       - Fecha de Entrega
-   *  - (1) Objetivos Personales
+   *  - [](021objetivosp.md)
       - Video Presentación
       - 5/01/2025
-   *  - (2) Posicionamiento del Investigador
+   *  - [](022posicion.md)
       - Infografía
       - 7/01/2025
-   *  - (3) Bases Teóricas y Conceptuales
+   *  - [](023bases.md)
       - Mapa Conceptual
       - 12/01/2025
-   *  - (4) Problema de Investigación
+   *  - [](024problema.md)
       - Presentación Interactiva
       - 14/01/2025
-   *  - (5) Preguntas de Investigación
+   *  - [](025preguntas.md)
       - Actividad Gamificada
       - 18/01/2025
-   *  - (6) Diseño de Investigación
+   *  - [](026diseno.md)
       - Google Drive
       - 20/01/2025
-   *  - (7) Proyecto de Investigación
+   *  - [](031proyecto.md)
       - PDF
       - 23/01/2025
    *  - (8) Reflexión
@@ -163,13 +163,37 @@ Todas las actividades se entregan en los foros del campus virtual, excepto el Pr
 Para más detalles sobre cada actividad y acceso a las lecturas, consulta el campus virtual. Recuerda que seguiremos las normas APA 7ª edición para todas las referencias y citas.
 :::
 
+:::{glossary}
+Taxonomía de Bloom
+: La Taxonomía de Bloom es un modelo que clasifica los niveles de aprendizaje en una jerarquía de menor a mayor complejidad y se usa ampliamente en educación para diseñar objetivos de aprendizaje y evaluar el desarrollo cognitivo. Fue desarrollada por Benjamin Bloom en 1956 y revisada en 2001. Se compone de seis niveles: (1) Recordar – Evocar información previamente aprendida; (2) Comprender – Explicar ideas o conceptos; (3) Aplicar – Usar el conocimiento en situaciones nuevas; (4) Analizar – Descomponer información y establecer relaciones; (5) Evaluar – Formular juicios y justificar decisiones; (6) Crear – Generar ideas o productos originales.
+
+Recordar
+: Uso y dominio de la memoria a largo plazo
+
+Comprender
+: Comprensión de las ideas y de los conceptos
+
+Aplicar
+: Poner en práctica los procedimientos aprendidos para resolver problemas 
+en contextos nuevos
+
+Analizar
+: Capacidad de fragmentar la información, descomponerla y relacionarla
+
+Evaluar
+: Emitir juicios de valor, justificar y defender opiniones	
+
+Crear
+: "Utilizar lo aprendido y las habilidades adquiridas para construir ideas nuevas.	
+:::
+
+
 
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
 :::
 
-:::{bibliography}
-:::
+
 
 
 

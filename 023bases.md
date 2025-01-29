@@ -2,9 +2,9 @@
 
 ---
 
-- **Duración**: 120 minutos  
+- **Fecha de Entrega**: 12/01/2025
 
-- **Agrupamiento**: Individual y Equipo de Trabajo  
+- **{term}`Taxonomía de Bloom`**: Nivel 4 ({term}`Analizar`) 
 
 ---
 
@@ -14,30 +14,23 @@ En esta actividad, tendrás la oportunidad de sintetizar el cuerpo de la literat
 
 ## Objetivo de Aprendizaje
 
-El objetivo de esta tarea es sintetizar el cuerpo de la literatura alrededor de un tema mediante un mapa conceptual realizado con Coggle o similar.
+El objetivo de esta tarea es:
+
+:::{pull-quote}
+Esquematizar una revisión inicial de la literatura alrededor de un tema y basada en una búsqueda en bases de datos científicas relevantes mediante un mapa conceptual.
+:::
 
 ## Descripción de la Tarea
 
 1. **REFLEXIONA** sobre la importancia de la Revisión de la Literatura (Marco Teórico de Sustento e Investigaciones Previas) en la investigación.
 
-:::{note} Revisión de la Literatura
-:class: dropdown
-
-Un proceso de descubrimiento, análisis y síntesis del conocimiento existente sobre un tema, fenómeno o problema de investigación.
-:::
-
-:::{note} Marco Teórico de Sustento
-:class: dropdown
-
-Conjunto de teorías en las que se apoya y se nutre el fenómeno a investigar.
-:::
-
-- Las Investigaciones Previas
-
-:::{note} Investigaciones Previas
-:class: dropdown
-
-Conjunto de Trabajos Previos realizados que ayudan a fundamentar la relevancia y la necesidad de un estudio.
+:::{glossary}
+Fundamentos Teóricos
+: **Revisión de la Literatura**: Un proceso de descubrimiento, análisis y síntesis del conocimiento existente sobre un tema, fenómeno o problema de investigación. \
+ \
+**Marco Teórico de Sustento**: Conjunto de teorías en las que se apoya y se nutre el fenómeno a investigar. \
+ \
+**Investigaciones Previas**: Conjunto de Trabajos Previos realizados que ayudan a fundamentar la relevancia y la necesidad de un estudio.
 :::
 
 2. **REALIZA** una Revisión de la Literatura basada en búsquedas en una base de datos relevante (WOS, SCOPUS). Para ello, debes delimitar los siguientes elementos:

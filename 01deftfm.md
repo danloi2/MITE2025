@@ -158,7 +158,6 @@ A su vez, estas corrientes se pueden subdividir en diferentes **diseños de inve
 6. **Revisión y corrección:** Solicita retroalimentación y revisa el texto antes de la entrega.
 :::
 
-
 ## Recursos recomendados
 ∫
 - **Gestores bibliográficos:** Zotero, Mendeley, EndNote, RefWorks.

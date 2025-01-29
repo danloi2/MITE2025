@@ -2,9 +2,9 @@
 
 ---
 
-- **Duración**: 120 minutos  
+- **Fecha de Entrega**: 07/01/2025
 
-- **Agrupamiento**: Individual y Equipo de Trabajo  
+- **{term}`Taxonomía de Bloom`**: Nivel 3 ({term}`Aplicar`) 
 
 ---
 
@@ -14,7 +14,12 @@ En esta actividad, tendrás la oportunidad de definir tu posicionamiento como in
 
 ## Objetivo de Aprendizaje
 
-El objetivo de esta tarea es *definir tu posicionamiento como investigador mediante una infografía.*
+El objetivo de esta tarea es:
+
+:::{pull-quote}
+Interpretar el posicionamiento como investigador ante las distintas tradiciones de investigación mediante una infografía.
+:::
+
 
 ## Descripción de la Tarea
 
@@ -59,12 +64,14 @@ Pragmático
 
 ### Lecturas
 
-Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto
-Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial.
+Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto {cite:p}`2017navarro2`
 
 ### Recursos TIC 
 
-[EDUapps: Herramientas TIC](https://app.genially.com/teams/6746ef5ade5409fab545c555/spaces/6746ef5ade5409fab545c567/dashboard?from=login-true)
+:::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
+:width: 100%
+Elije la herramienta TIC adecuada
+:::
 
 ## Entregas al Espacio Virtual de Aprendizaje
 

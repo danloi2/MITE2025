@@ -111,7 +111,17 @@ Durante el curso desarrollarás 8 actividades clave:
    *  - (5) Preguntas de Investigación
       - Actividad Gamificada
       - 18/01/2025
-   *  - (6) Diseño de Investigación
+   *  - (6) Diseño de Investiy por qué los medios propuestos para analizarlo son adecuados y rigurosos. 
+>
+> -- Ravitch y Riggan, 2017
+
+> Una estructura organizada de conceptos, que nos permite:
+>
+> a. Delimitar las razones por las que estamos interesados en estudiar un determinado tema de investigación.
+> b. Justificar su relevancia y pertinencia.
+> c. Establecer si los medios que proponemnos para estudiarlo son rigurosos y apropiados.
+>
+> -- Jorrin, Fontana y Rubia, 2021gación
       - Google Drive
       - 20/01/2025
    *  - (7) Proyecto de Investigación

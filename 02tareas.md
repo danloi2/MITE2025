@@ -2,6 +2,13 @@
 
 ## ¿Cuál es nucleo fundamental de la investigación?
 
+El marco conceptual es una estructura argumentativa y organizada de conceptos que permite justificar la importancia de un tema de investigación y la idoneidad de los medios propuestos para su análisis. Funciona como un andamiaje teórico que delimita las razones del estudio, establece su relevancia y verifica la rigurosidad de los métodos utilizados (Jorrín, Fontana y Rubia, 2021).
+
+Según Ravitch y Riggan (2017), el marco conceptual es un conjunto de argumentos que explican por qué el tema que se pretende analizar es significativo y por qué los medios propuestos para su estudio son adecuados y rigurosos. En este sentido, se trata de un producto construido por el investigador a partir de piezas prestadas, como teorías previas y experiencias existentes, con el fin de situar la investigación en un campo determinado y señalar vacíos aún no explorados.
+
+Además, el marco conceptual cumple un papel clave en la interconexión entre la dimensión teórica y la metodología, asegurando la coherencia y solidez del proceso investigativo.
+
+
 
 
 > El marco conceptual es un conjunto de argumentos que explica por qué el tema que se pretende analizar tiene importancia y por qué los medios propuestos para analizarlo son adecuados y rigurosos. 

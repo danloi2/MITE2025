@@ -14,6 +14,9 @@ project:
   downloads:
     - file: ./recursos/2025_GuiaMITE.pdf
       title: Guía Didáctica MITE
+  abbreviations:
+     MITE: Metodología de Investigación en Tecnología Educativa
+     TFM: Trabajo Fin de Máster∫
 
   authors:
     - name: Daniel Losada
@@ -71,12 +74,13 @@ project:
     - title: Información Adicional
       children:
         - file: 04guia.md
-        - file: 05cred.md
+        - file: 05glosario.md
+        - file: 06cred.md
     
 site:
   nav:
-    - title: Campus
-      url: https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=20845
+      - title: Daniel Losada
+        url: https://ekoizpen-zientifikoa.ehu.eus/investigadores/130988/detalle
   actions:
       - title: Campus Virtual de la UNEX
         url: https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=20845

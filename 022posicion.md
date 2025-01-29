@@ -26,30 +26,32 @@ El objetivo de esta tarea es *definir tu posicionamiento como investigador media
 
 2. **CLASIFICA** tu posicionamiento dentro de una de las siguientes **tradiciones de investigación**:
 
-- **Positivista**  
-    - **Concepción de la realidad:** Existe una única realidad reconocible y observable.  
-    - **Rol del investigador:** Objetivo, trabaja a partir de datos y minimiza los prejuicios.  
-    - **Enfoque:** Uso de métodos cuantitativos, aproximación deductiva y procedimientos controlados y      descontextualizados.  
+:::{glossary}
+Positivista
+: **Concepción de la realidad:** Existe una única realidad reconocible y observable. \
+**Rol del investigador:** Objetivo, trabaja a partir de datos y minimiza los prejuicios. \
+**Enfoque:** Uso de métodos cuantitativos, aproximación deductiva y procedimientos controlados y descontextualizados.
 
-- **Postpositivista**  
-    - **Concepción de la realidad:** La realidad puede ser conocida, pero solo con cierto grado de probabilidad, no como una verdad absoluta.  
-    - **Rol del investigador:** Objetivo, neutral y desapasionado.  
-    - **Enfoque:** Distancia entre investigador y participantes. Investigación basada en métodos cuantitativos, con aproximación deductiva y procedimientos controlados. Reconoce la influencia potencial de prejuicios pero busca minimizarlos.  
+PostPositivista
+: **Concepción de la realidad:** La realidad puede ser conocida, pero solo con cierto grado de probabilidad, no como una verdad absoluta. \
+**Rol del investigador:** Objetivo, neutral y desapasionado. \
+**Enfoque:** Distancia entre investigador y participantes. Investigación basada en métodos cuantitativos, con aproximación deductiva y procedimientos controlados. Reconoce la influencia potencial de prejuicios pero busca minimizarlos.
 
-- **Constructivista**  
-    - **Concepción de la realidad:** La realidad es plural y está socialmente construida.  
-    - **Rol del investigador:** Subjetivo e interpretativo, interactúa activamente con los participantes.  
-    - **Enfoque:** Se incorporan los puntos de vista de los participantes para interpretar los significados sociales. Uso predominante de métodos cualitativos, con una aproximación inductiva y una atención especial a los aspectos contextuales de la investigación. 
-    
-- **Transformador**  
-    - **Concepción de la realidad:** Existen múltiples versiones de la realidad, determinadas por la posición social de los individuos.  
-    - **Rol del investigador:** Interactivo, comprometido con la construcción social del conocimiento, considerando aspectos históricos, culturales, relaciones de poder y confianza social.  
-    - **Enfoque:** Investigación orientada hacia poblaciones con baja representación, empleando métodos cualitativos, cuantitativos o mixtos según sea necesario. Requiere un diálogo reflexivo y colaborativo entre iguales. Aproximación predominantemente inductiva.  
-    
-- **Pragmático**  
-    - **Concepción de la realidad:** La realidad es única, pero cada individuo la interpreta según su contexto y las necesidades del problema de investigación.  
-    - **Rol del investigador:** Flexible, selecciona métodos y enfoques basándose en su utilidad para responder a preguntas específicas.  
-    - **Enfoque:** Uso de métodos mixtos, con una combinación de aproximaciones inductivas y deductivas según lo requiera el estudio.  
+Constructivista
+: **Concepción de la realidad:** La realidad es plural y está socialmente construida. \
+**Rol del investigador:** Subjetivo e interpretativo, interactúa activamente con los participantes. \
+**Enfoque:** Se incorporan los puntos de vista de los participantes para interpretar los significados sociales. Uso predominante de métodos cualitativos, con una aproximación inductiva y una atención especial a los aspectos contextuales de la investigación.
+
+Transformador
+: **Concepción de la realidad:** Existen múltiples versiones de la realidad, determinadas por la posición social de los individuos. \
+**Rol del investigador:** Interactivo, comprometido con la construcción social del conocimiento, considerando aspectos históricos, culturales, relaciones de poder y confianza social. \
+**Enfoque:** Investigación orientada hacia poblaciones con baja representación, empleando métodos cualitativos, cuantitativos o mixtos según sea necesario. Requiere un diálogo reflexivo y colaborativo entre iguales. Aproximación predominantemente inductiva.
+
+Pragmático
+: **Concepción de la realidad:** La realidad es única, pero cada individuo la interpreta según su contexto y las necesidades del problema de investigación. \
+**Rol del investigador:** Flexible, selecciona métodos y enfoques basándose en su utilidad para responder a preguntas específicas. \
+**Enfoque:** Uso de métodos mixtos, con una combinación de aproximaciones inductivas y deductivas según lo requiera el estudio.
+::: 
 
 3. **COMPARTE** tu video en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 

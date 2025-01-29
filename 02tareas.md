@@ -47,19 +47,9 @@ Durante estas tres semanas te vas a dedicar a desarrollar el **Marco Conceptual*
 >
 > -- Hamlet act 4, Scene 5
 
-[](ror:000xsnr85)
-
-
-{cite}`jorrin2021`
-
-{cite}`2024galindo`
-
-
-This is a link in markdown: [Cockett, 2022](https://doi.org/10.5281/zenodo.6476040).
 
 
 
-```{bibliography}
-:numbered: false
-```
+
+
 

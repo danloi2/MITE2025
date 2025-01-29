@@ -1,6 +1,6 @@
 # TFM en Acción: Diseña tu Proyecto en Tecnología Educativa"
 
-¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!
+¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **{term}`Trabajo Fin de Máster`**!
 
 ```{admonition} Información del Profesorado
 :class: dropdown
@@ -14,9 +14,9 @@ A lo largo de estas **próximas tres semanas**, te invitamos a embarcarte en un 
 
 Te centrarás en desarrollar el **MARCO CONCEPTUAL** de tu investigación, que es el núcleo fundamental de cualquier investigación rigurosa. Todo esto se reduce a la siguiente pregunta clave:  
 
-
-> ¿Cómo se diseña un **ESTUDIO CIENTÍFICO** en el ámbito de la **TECNOLOGÍA EDUCATIVA**?   
-
+:::{pull-quote}
+¿Cómo se diseña un **ESTUDIO CIENTÍFICO** en el ámbito de la **TECNOLOGÍA EDUCATIVA**? 
+:::
 
 ## ¿Qué vas a hacer en la Situacion de Aprendizaje?
 
@@ -27,51 +27,44 @@ Al finalizar, diseñarás un **PROYECTO DE TRABAJO FIN DE MÁSTER**, fundamentad
 
 ::: {list-table} Lista de Lecturas Obligatorias
 :header-rows: 1
-:widths: 20 40 40
 :label: tab:lecturas
 
    *  - **Apartados del TFM**
-      - **Documento 1**
-      - **Documento 2**
+      - **Documentos**
    *  - **(1) Estructura Básica del Proyecto de TFM**
-      - [Guía Didáctica](recursos/2025_TFM.pdf)
-      - **Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto**
-        Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial.
-      -
+      - [Guía Didáctica](recursos/2025_TFM.pdf) \
+      *Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto* \
+      {cite:p}`2017navarro2`
    *  - **(2) Selección del Tema**
-      - **Capítulo 3. ¿Por dónde empiezo? Selección del tema y redacción del trabajo**. 
-        Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial.
-      -
+      - *Capítulo 3. ¿Por dónde empiezo? Selección del tema y redacción del trabajo* \
+      {cite:p}`2017navarro3`
    *  - **(3) Marco Conceptual**
-      - **Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación**
-        Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
-      -
+      - *Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación* \
+      {cite:p}`2021jorrin5`
    *  - **(4) Recogida de Datos**
-      - **Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos**
-        Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial.
-      - **Entrevista, Grupos Focales, Grupos de Discusión, Observación y análisis de documentos**
-        Gallego, C. y Tomás, E. M. (2016). *Introducción a los Métodos y Técnicas de Investigación Cualitativa en Ciencias Sociales*. https://ocw.unizar.es/ocw/course/view.php?id=43
+      - *Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos* \
+      {cite:p}`2017navarro7`
    *  - **(5) Análisis de Datos**
-      - **Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos**
-        Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). Investigar en educación : manual y guía práctica. Síntesis.
-      - **Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa**
-        Navarro Asencio, E., Jiménez García, E., Rappoport Redondo, S., & Thoilliez Ruano, B. (2017). *Fundamentos en la investigación educativa*. UNIR Editorial
-        **Análisis Cuantitativo Básico**
-        Galindo, H. (2020). *Estadística para no estadísticos.Una guía básica sobre la metodología cuantitativa de    trabajos académicos*. 3Ciencias. [](https://dialnet.unirioja.es/descarga/libro/779767.pdf)
+      - *Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos* \
+      {cite:p}`2021jorrin7`\
+      *Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa*  \
+      {cite:p}`2017navarro8` \
+       *Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cualitativa*  \
+      {cite:p}`2017navarro9` \
+      *Estadística* \
+      {cite:p}`2020galindo`
   *   - **(6) Rigor Científico**
-      - **Capítulo 8.- Definiendo estrategias de validez y veracidad**
-        Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
-      - 
+      - *Capítulo 8.- Definiendo estrategias de validez y veracidad*
+         {cite:p}`2021jorrin8`
   *   - **(7) Principios Éticos**
-      - **Capítulo 9. Procedimientos y principios éticos de la investigación**
-        Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
-      -
+      - *Capítulo 9. Procedimientos y principios éticos de la investigación* \
+      {cite:p}`2021jorrin9`\.
   *   - **(8) Cuestiones Fundamentales sobre la Redacción del Informe**
-      - **Capítulo 10. Redacción del informe de investigación**
-        Jorrín Abellán, I. M., Fontana Abad, M., & Rubia Avi, B. (2021). *Investigar en educación : manual y guía práctica*. Síntesis.
-      - **APA 7**
-        APA (2021). *Style and Grammar Guidelines. [](https://apastyle.apa.org/style-grammar-guidelines)*
-        UPV/EHU (2022). *Estilo APA: cómo citar y elaborar bibliografías*. https://addi.ehu.es/handle/10810/42398 
+      - *Capítulo 10. Redacción del informe de investigación* \
+        {cite:p}`2021jorrin10` \
+         *APA 7* \
+         {cite:p}`apaweb` \
+         {cite:p}`2022apaehu`
 :::
 
 ## ¿Qué te llevarás de esta asignatura? 
@@ -98,28 +91,56 @@ Durante el curso desarrollarás 8 actividades clave:
 
 ::: {list-table} Lista de Actividades
 :header-rows: 1
-:widths: 60 40
 :label: tab:actividades
 
    *  - Actividad
       - Formato de Entrega
+      - Fecha de Entrega
    *  - (1) Objetivos Personales
       - Video Presentación
+      - 5/01/2025
    *  - (2) Posicionamiento del Investigador
       - Infografía
+      - 7/01/2025
    *  - (3) Bases Teóricas y Conceptuales
       - Mapa Conceptual
+      - 12/01/2025
    *  - (4) Problema de Investigación
       - Presentación Interactiva
+      - 14/01/2025
    *  - (5) Preguntas de Investigación
       - Actividad Gamificada
+      - 18/01/2025
    *  - (6) Diseño de Investigación
       - Google Drive
+      - 20/01/2025
    *  - (7) Proyecto de Investigación
       - PDF
+      - 23/01/2025
    *  - (8) Reflexión
       - Prueba Escrita (Examen)
+      - 13/05/2025
 :::
+
+:::{mermaid}
+:name:actmermaid
+
+gitGraph
+    commit id:"Inicio" type: HIGHLIGHT tag: "03/01"
+    commit id:"Videollamada"type: HIGHLIGHT tag: "04/01"
+    branch "Marco Conceptual"
+    commit id:"(1) Objetivos" tag: "05/01"
+    commit id:"(2) Posicionamiento" tag: "07/01"
+    commit id:"(3) Bases" tag: "12/01"
+    commit id:"(4) Problema" tag: "14/01"
+    commit id:"(5) Preguntas" tag: "18/01"
+    commit id:"(6) Diseño" tag: "20/01"
+    checkout main
+    merge "Marco Conceptual"id:"Proyecto TFM" type: HIGHLIGHT tag: "23/01"
+    commit id:"Examen" type: HIGHLIGHT tag: "13/05"
+    commit id:"Fin" type: HIGHLIGHT tag: "25/06"
+:::
+
 
 :::{admonition} Fechas de Entrega Aproximadas
 :class: important
@@ -146,4 +167,9 @@ Para más detalles sobre cada actividad y acceso a las lecturas, consulta el cam
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
 :::
+
+:::{bibliography}
+:::
+
+
 

@@ -58,12 +58,8 @@ El objetivo de esta tarea es **redactar el Proyecto de Investigación teniendo e
 ## Entregas al Espacio Virtual de Aprendizaje
 1. Envío del enlace del documento en formato PDF en el foro correspondiente del curso del campus virtual.
 
-
-
-
 :::{list-table} APARTADOS TFM
 :header-rows: 1
-:widths: 15 65 10 10
 :name:proyecto
 
 * - Sección

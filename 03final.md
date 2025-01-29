@@ -4,7 +4,6 @@ La siguiente tabla recoge los apartados del Trabajo Fin de Master en Educación 
 
 :::{list-table} APARTADOS TFM
 :header-rows: 1
-:widths: 15 65 10 10
 :name:tfm
 
 * - Sección

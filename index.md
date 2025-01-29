@@ -1,4 +1,4 @@
-# TFM en Acción: Diseña tu Proyecto en Tecnología Educativa"
+# TFM en Acción: Diseña tu Proyecto en Tecnología Educativa
 
 ¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **{term}`Trabajo Fin de Máster`**!
 

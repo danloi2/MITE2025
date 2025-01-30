@@ -35,13 +35,13 @@ Fundamentos Teóricos
 
 2. **REALIZA** una Revisión de la Literatura basada en búsquedas en una base de datos relevante (WOS, SCOPUS). Para ello, debes delimitar los siguientes elementos:
 
-- Definición de ideas, temas de investigación, disciplina, amplitud y objetivos
-- Definición de palabras clave
-- Definición del ámbito geográfico/lingüístico
-- Limitación de tiempo
-- Definición del tipo de documento
-- Establecer un conjunto de bases de datos
-- Definición del conjunto de estrategias
+- [ ] Definición de ideas, temas de investigación, disciplina, amplitud y objetivos
+- [ ] Definición de palabras clave
+- [ ] Definición del ámbito geográfico/lingüístico
+- [ ] Limitación de tiempo
+- [ ] Definición del tipo de documento
+- [ ] Establecer un conjunto de bases de datos
+- [ ] Definición del conjunto de estrategias
 
 
 3. **COMPARTE** tu mapa conceptual en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
@@ -50,47 +50,52 @@ Fundamentos Teóricos
 
 ### Lecturas
 
-https://www.recursoscientificos.fecyt.es/servicios/formacion/material
+- [ ] [Material de Formación del FECYT](https://www.recursoscientificos.fecyt.es/servicios/formacion/material)
+- [ ] [RefWorks 1](https://www.ehu.eus/documents/1738121/1798113/RefWorks+Gu%C3%ADa+Visual+2019.pdf/b1357ff7-c796-523c-b8af-79d463ce6b5e?t=1592233057000)
+- [ ] [RefWorks 2](https://www.ehu.eus/documents/1738121/1798113/RefWorfs-Guia-TFG-2022.pdf/8b866c95-efb2-8ab6-e755-45d8861a3a9b?t=1647003224082)
 
+### Videos
+
+#### Web Of Science
 
 :::{iframe} https://www.youtube.com/embed/XtY6cI5OlkM?si=OBFwh50__sy9-MBR
 :width: 100%
-WOS
+[Mis primeros pasos con Web of Science (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24-09-17_mis_primeros_pasos_wos.pdf)
 :::
 
+:::{iframe} https://www.youtube.com/embed/0inlHz7EJiw?si=P3CK_asx9wMofiHL
+:width: 100%
+[Utilizar operadores booleanos y guardar mis consultas en Web of Science (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24_09_17_Operadores_Boleanos.pdf)
+:::
 
-https://www.youtube.com/watch?v=XtY6cI5OlkM 
-https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24-09-17_mis_primeros_pasos_wos.pdf
+:::{iframe} https://www.youtube.com/embed/t79Y7-dXOKY?si=pfUJanhjNxZFSMxm
+:width: 100%
+[Utilizar Web of Science para identificar los documentos más relevantes (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/20240919_wos_identificar_documentos_relevantes.pdf)
+:::
 
+#### Scopus
 
-https://www.youtube.com/watch?v=0inlHz7EJiw 
-https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24_09_17_Operadores_Boleanos.pdf 
+:::{iframe} https://www.youtube.com/embed/RLv-6EODyPc?si=vMIprJzhuP4OEYU5
+:width: 100%
+[Introducción a Scopus y primeras búsquedas (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/introduccion_scopus.pdf)
+:::
 
-https://www.youtube.com/watch?v=t79Y7-dXOKY&feature=youtu.be
-https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/20240919_wos_identificar_documentos_relevantes.pdf
+:::{iframe} https://www.youtube.com/embed/jsNYH-RIraI?si=y6jBn2XnkPXV1Kk9
+:width: 100%
+[Scopus Búsquedas y análisis de resultados (Básico 1)]()
+:::
 
-
-https://www.youtube.com/watch?v=RLv-6EODyPc
-https://www.recursoscientificos.fecyt.es/sites/default/files/introduccion_scopus.pdf
-
-https://www.youtube.com/watch?v=jsNYH-RIraI
-
-https://www.youtube.com/watch?v=Z5MsUqqkK7o&feature=youtu.be
-
-https://www.ehu.eus/documents/1738121/1798113/RefWorks+Gu%C3%ADa+Visual+2019.pdf/b1357ff7-c796-523c-b8af-79d463ce6b5e?t=1592233057000
-
-https://www.ehu.eus/documents/1738121/1798113/RefWorfs-Guia-TFG-2022.pdf/8b866c95-efb2-8ab6-e755-45d8861a3a9b?t=1647003224082
-
-
+:::{iframe} https://www.youtube.com/embed/Z5MsUqqkK7o?si=q-aU24SRsVIFNUM-
+:width: 100%
+[Scopus búsqueda avanzada (Básico 1)]()
+:::
 
 ### Recursos TIC 
 
-http://scopus.com/
-
-http://wos.fecyt.es/
-
-https://refworks.proquest.com/ 
+- [ ] [RefWorks 1](https://refworks.proquest.com/)
+- [ ] [Web Of Science](http://wos.fecyt.es/)
+- [ ] [Scopus]( https://scopus.com)
 
 ## Entregas al Espacio Virtual de Aprendizaje
 
-Envío del enlace de la video presentación en el foro correspondiente.
+- [ ] Envío del enlace de la video presentación en el foro correspondiente.

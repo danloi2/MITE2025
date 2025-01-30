@@ -24,6 +24,7 @@ Al finalizar, diseñarás un **PROYECTO DE TRABAJO FIN DE MÁSTER**, fundamentad
 
 ## ¿Cuáles son las lecturas obligatorias?
 
+Las lecturas necesarias para llevar a cabo las tareas son las siguientes: [](#tab:lecturas)
 
 ::: {list-table} Lista de Lecturas Obligatorias
 :header-rows: 1
@@ -87,7 +88,7 @@ Las competencias investigadoras necesarias para planificar el **{term}`MARCO CON
 
 ## ¿Cuál es el Itinerario de Aprendizaje?
 
-Durante el curso desarrollarás 8 actividades clave:
+Durante el curso desarrollarás 8 actividades clave: [](#tab:actividades)
 
 ::: {list-table} Lista de Actividades
 :header-rows: 1

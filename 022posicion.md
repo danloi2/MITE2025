@@ -64,7 +64,7 @@ Pragmático
 
 ### Lecturas
 
-Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto {cite:p}`2017navarro2`
+- [ ] Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto {cite:p}`2017navarro2`
 
 ### Recursos TIC 
 
@@ -75,4 +75,4 @@ Elije la herramienta TIC adecuada
 
 ## Entregas al Espacio Virtual de Aprendizaje
 
-Envío del enlace de la video presentación en el foro correspondiente.
+- [ ] Envío del enlace de la video presentación en el foro correspondiente.

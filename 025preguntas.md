@@ -84,7 +84,7 @@ Las preguntas de investigación son una parte fundamental del problema de invest
 
 ### Lecturas
 
-Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación {cite:p}`2021jorrin5`
+- [ ] Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación {cite:p}`2021jorrin5`
 
 ### Recursos TIC 
 
@@ -95,4 +95,4 @@ Elije la herramienta TIC adecuada
 
 ## Entregas al Espacio Virtual de Aprendizaje
 
-Envío del enlace de la video presentación en el foro correspondiente.
+- [ ] Envío del enlace de la video presentación en el foro correspondiente.

@@ -61,17 +61,12 @@ Implicaciones Éticas
 
 ### Lecturas 
 
-Estadística para no estadísticos. {cite:p}`2020galindo`
-
-Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos {cite:p}`2017navarro7`
-
-Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa {cite:p}`2017navarro8`
-
-Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos {cite:p}`2021jorrin7`
-
-Capítulo 8.- Definiendo estrategias de validez y veracidad {cite:p}`2021jorrin8`
-
-Capítulo 9. Procedimientos y principios éticos de la investigación {cite:p}`2021jorrin9`
+- [ ] Estadística para no estadísticos. {cite:p}`2020galindo`
+- [ ] Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos {cite:p}`2017navarro7`
+- [ ] Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa {cite:p}`2017navarro8`
+- [ ] Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos {cite:p}`2021jorrin7`
+- [ ] Capítulo 8.- Definiendo estrategias de validez y veracidad {cite:p}`2021jorrin8`
+- [ ] Capítulo 9. Procedimientos y principios éticos de la investigación {cite:p}`2021jorrin9`
 
 ### Recursos TIC 
 
@@ -82,4 +77,4 @@ Elije la herramienta TIC adecuada
 
 ## Entregas al Espacio Virtual de Aprendizaje
 
-Envío del enlace de la video presentación en el foro correspondiente.
+- [ ] Envío del enlace de la video presentación en el foro correspondiente.

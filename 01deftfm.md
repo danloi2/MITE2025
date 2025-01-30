@@ -1,4 +1,4 @@
-# ¿Qué es un Trabajo Fin de Máster (TFM)?
+# ¿Qué es un Trabajo Fin de Máster?
 
 ## Introducción
 
@@ -61,45 +61,60 @@ Un TFM debe ser:
 
 ## Estructura Típica del TFM
 
-:::{glossary}
-Estructura TFM
-: Apartados fundamentales: Portada, Resumen, Agradecimientos, Índice, Introducción, Objetivos y justificación, Marco Teórico, Método, Resultados, Discusión y Conclusiones, Referencias y Anexos.
+El TFM tiene los siguientes apartados fundamentales ([](#tab:tfmapartabla))
 
-Portada
-: Presentación del trabajo: ideas-fuerza sobre las que se ha realizado el trabajo, finalidades perseguidas, descripción del contenido del trabajo.
+:::{list-table} Apartados del Trabajo Fin de Máster
+:header-rows: 1
+:label: tab:tfmapartabla
 
-Resumen
-: Síntesis informativa del TFM que ha de seguir la estructura «IMRD». Unas líneas dedicadas a la Introducción (justificación, relevancia y objetivo fundamental del TFM). Una descripción de la Metodología de investigación empleada. Los Resultados más importantes que se derivan de la investigacion. Y, por último, la principal Conclusión del estudio. (200-250)
-
-Agradecimientos
-: Opcional
-
-Índice
-: Numerado
-
-Introducción
-: Presentación del trabajo: ideas-fuerza sobre las que se ha realizado el trabajo, finalidades perseguidas, descripción del contenido del trabajo. (4% - 560-600)
-
-Objetivos y Justificación
-: Explicación de cuáles son las preguntas se quieren responder en la investigación y de los motivos que han conducido a la elección del tema. Hay que exponer la relevancia del objeto de estudio.(6% - 840-900)
-
-Marco Teórico
-: El estado de la cuestión es el resultado de la consulta bibliográfica y el estudio de los expertos. En este apartado se espera encontrar un recorrido por enfoques y autores que se hacen preguntas similares a la de la investigación, que tratan temas relacionados y procuran resolver problemas compartidos. Es un espacio en el que, igualmente, se puede expresar argumentos a favor o en contra, y ser críticos con algunas teorías y autores. (35% - 4900-5250)
-
-Método
-: Exposición de la unidad de análisis escogida y de las técnicas que se piensan utilizar para la recogida, la elaboración y el análisis de los datos y su adecuación al objeto de estudio y problema escogido. Hay que dedicar un espacio para reflexionar sobre las elecciones que se han tomado con relación a las técnicas de recogida y tratamiento de la información, y a la metodología de análisis e interpretación de los datos. Incluirá los diferentes pasos o fases de la investigación. (10% - 1400-1500)
-
-Resultados
-:  Apartados o capítulos en los cuales se presenta el análisis de los datos obtenidos como fruto de la investigación.(30% - 4200-4500)
-
-Discusión y Conclusiones
-: Este es un apartado importante de la memoria de investigación, en donde se ha de explicar de una forma clara y sintética las aportaciones más importantes del trabajo. Las conclusiones no siempre tienen que ser cuestiones que la investigación ha solucionado, sino que a veces se trata de plantear nuevas preguntas o líneas de investigación que el proyecto podría desarrollar en el futuro.(15% - 2100-2250)
-
-Referencias
-: La bibliografía de referencia irá listada alfabéticamente bajo el título de bibliografía. Tiene que contener la bibliografía y otras fuentes documentales que habéis utilizado para la investigación. APA 7
-
-Anexos
-: Gráficos, datos originales, transcripciones y otros documentos que aporten aspectos significativos complementarios al texto de la memoria de investigación. Si procede
+* - Sección
+  - Descripción
+  - \%Extensión
+  - Palabras
+* - PORTADA
+  - Utilizar la plantilla del Máster
+  -
+  - 
+* - RESUMEN
+  - Síntesis informativa del TFM que ha de seguir la estructura «IMRD». Unas líneas dedicadas a la Introducción (justificación, relevancia y objetivo fundamental del TFM). Una descripción de la Metodología de investigación empleada. Los Resultados más importantes que se derivan de la investigacion. Y, por último, la principal Conclusión del estudio. Se deben incluir las de 3 a 5 palabras clave. También hay que realizar otro en Inglés. 
+  - 
+  - 200 250
+* - AGRADECIMIENTOS
+  - Opcional
+  - 
+  -
+* - INTRODUCCIÓN
+  - Presentación del trabajo: ideas-fuerza sobre las que se ha realizado el trabajo, finalidades perseguidas, descripción del contenido del trabajo.
+  - 4%
+  - 560 600
+* - OBJETIVOS Y JUSTIFICACIÓN
+  - Explicación de cuáles son las preguntas se quieren responder en la investigación y de los motivos que han conducido a la elección del tema. Hay que exponer la relevancia del objeto de estudio.
+  - 6%
+  - 840 900
+* - MARCO TEÓRICO
+  - El estado de la cuestión es el resultado de la consulta bibliográfica y el estudio de los expertos. En este apartado se espera encontrar un recorrido por enfoques y autores que se hacen preguntas similares a la de la investigación, que tratan temas relacionados y procuran resolver problemas compartidos. Es un espacio en el que, igualmente, se puede expresar argumentos a favor o en contra, y ser críticos con algunas teorías y autores.
+  - 35%
+  - 4900 5250
+* - MÉTODO
+  - Exposición de la unidad de análisis escogida y de las técnicas que se piensan utilizar para la recogida, la elaboración y el análisis de los datos y su adecuación al objeto de estudio y problema escogido. Hay que dedicar un espacio para reflexionar sobre las elecciones que se han tomado con relación a las técnicas de recogida y tratamiento de la información, y a la metodología de análisis e interpretación de los datos. Incluirá los diferentes pasos o fases de la investigación.
+  - 10%
+  - 1400 1500
+* - RESULTADOS
+  - Apartados o capítulos en los cuales se presenta el análisis de los datos obtenidos como fruto de la investigación.
+  - 30%
+  - 4200 4500
+* - DISCUSIÓN Y CONCLUSIONES
+  - Este es un apartado importante de la memoria de investigación, en donde se ha de explicar de una forma clara y sintética las aportaciones más importantes del trabajo. Las conclusiones no siempre tienen que ser cuestiones que la investigación ha solucionado, sino que a veces se trata de plantear nuevas preguntas o líneas de investigación que el proyecto podría desarrollar en el futuro.
+  - 15%
+  - 2100 2250
+* - REFERENCIAS
+  - La bibliografía de referencia irá listada alfabéticamente bajo el título de bibliografía. Tiene que contener la bibliografía y otras fuentes documentales que habéis utilizado para la investigación.
+  - -
+  - -
+* - ANEXOS
+  - Gráficos, datos originales, transcripciones y otros documentos que aporten aspectos significativos complementarios al texto de la memoria de investigación.
+  - Optativo
+  - -
 :::
 
 :::{mermaid}
@@ -218,5 +233,12 @@ A su vez, estas corrientes se pueden subdividir en diferentes **diseños de inve
 - **Gestores bibliográficos:** Zotero, Mendeley, EndNote, RefWorks.
 - **Software de análisis de datos:** SPSS, R, NVivo, ATLAS.ti.
 - **Herramientas de escritura académica:** Markdown
+
+## ¿Por dónde empezamos el TFM?
+
+:::{pull-quote}
+Para empezar el TFM debemos realizar un Proyecto de Trabajo de Fin Máster. 
+
+
 
 

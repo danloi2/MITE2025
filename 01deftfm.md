@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El **Trabajo Fin de Máster (TFM)** es una pieza clave en la formación de posgrado. Su realización permite al estudiante demostrar su capacidad para llevar a cabo una investigación rigurosa, aplicar conocimientos adquiridos y desarrollar un pensamiento crítico dentro de su especialidad académica. Esta guía proporciona orientaciones esenciales para la elaboración de un TFM en el marco del Máster en Educación Digital.
+El **Trabajo Fin de Máster (TFM)** es una pieza clave en la formación de posgrado. Su realización permite al estudiante demostrar su capacidad para llevar a cabo una investigación rigurosa, aplicar conocimientos adquiridos y desarrollar un pensamiento crítico dentro de su especialidad académica. Esta guía proporciona orientaciones esenciales para la elaboración de un TFM en el marco del Máster en Educación Digital..
 
 ## ¿Qué es un TFM?
 

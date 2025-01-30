@@ -1,10 +1,10 @@
-# 4. Entregable: Defino el Problema de Investigación
+# 4. Entregable: Defiendo mi Problema de Investigación
 
 ---
 
 - **Fecha de Entrega**: 14/01/2025
 
-- **{term}`Taxonomía de Bloom`**:Nivel 5 ({term}`Evaluar`) 
+- **{term}`Taxonomía de Bloom`**: Nivel 5 ({term}`Evaluar`) 
 
 ---
 

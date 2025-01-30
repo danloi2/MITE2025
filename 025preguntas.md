@@ -1,4 +1,4 @@
-# 5. Entregable: Establezco las Preguntas de Investigación
+# 5. Entregable: Formulo las Preguntas de Investigación
 
 ---
 

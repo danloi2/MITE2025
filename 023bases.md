@@ -1,4 +1,4 @@
-# 3. Entregable: Realizo una Revisión inicial de la Literatura
+# 3. Entregable: Esquematizo una Revisión inicial de la Literatura
 
 ---
 

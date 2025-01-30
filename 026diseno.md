@@ -1,4 +1,4 @@
-# 6. Entregable: Selecciono un Diseño de Investigación
+# 6. Entregable: Justifico un Diseño de Investigación
 
 ---
 

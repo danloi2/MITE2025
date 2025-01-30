@@ -184,7 +184,7 @@ A su vez, estas corrientes se pueden subdividir en diferentes **diseños de inve
 :::
 
 ## Recursos recomendados
-∫
+
 - **Gestores bibliográficos:** Zotero, Mendeley, EndNote, RefWorks.
 - **Software de análisis de datos:** SPSS, R, NVivo, ATLAS.ti.
 - **Herramientas de escritura académica:** Markdown

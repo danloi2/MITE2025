@@ -1,4 +1,4 @@
-# 2. Entregable: Reflexiono sobre mi Posicionamiento como Investigador
+# 2. Entregable: Interpreto mi Posicionamiento como Investigador
 
 ---
 
@@ -29,7 +29,7 @@ Interpretar el posicionamiento como investigador ante las distintas tradiciones 
 - ¿Cuál es la naturaleza del conocimiento que se genera del mundo que te rodea?
 - ¿Cuáles son las formas en que podemos aprender ese conocimiento?
 
-2. **CLASIFICA** tu posicionamiento dentro de una de las siguientes **tradiciones de investigación**:
+2. **SITUA** tu posicionamiento dentro de una de las siguientes **tradiciones de investigación**:
 
 :::{glossary}
 Positivista

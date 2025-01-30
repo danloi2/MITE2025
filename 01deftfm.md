@@ -63,18 +63,43 @@ Un TFM debe ser:
 
 :::{glossary}
 Estructura TFM
-: Apartados fundamentales 
-1. **Portada**
-2. **Resumen**: abstract en español e inglés)
-3. **Agradecimientos**: opcional
-4. **Índice**: numerado
-5. **Introducción**: planteamiento del problema y objetivos)
-6. **Marco teórico**: revisión de la literatura relevante)
-7. **Metodología** (descripción detallada del enfoque, técnicas y herramientas utilizadas)
-8. **Resultados** (análisis e interpretación de los hallazgos)
-9. **Discusión y conclusiones** (evaluación de resultados y futuras líneas de investigación)
-10. **Referencias bibliográficas**
-11. **Anexos** (si aplica)
+: Apartados fundamentales: Portada, Resumen, Agradecimientos, Índice, Introducción, Objetivos y justificación, Marco Teórico, Método, Resultados, Discusión y Conclusiones, Referencias y Anexos.
+
+Portada
+: Presentación del trabajo: ideas-fuerza sobre las que se ha realizado el trabajo, finalidades perseguidas, descripción del contenido del trabajo.
+
+Resumen
+: Síntesis informativa del TFM que ha de seguir la estructura «IMRD». Unas líneas dedicadas a la Introducción (justificación, relevancia y objetivo fundamental del TFM). Una descripción de la Metodología de investigación empleada. Los Resultados más importantes que se derivan de la investigacion. Y, por último, la principal Conclusión del estudio. (200-250)
+
+Agradecimientos
+: Opcional
+
+Índice
+: Numerado
+
+Introducción
+: Presentación del trabajo: ideas-fuerza sobre las que se ha realizado el trabajo, finalidades perseguidas, descripción del contenido del trabajo. (4% - 560-600)
+
+Objetivos y Justificación
+: Explicación de cuáles son las preguntas se quieren responder en la investigación y de los motivos que han conducido a la elección del tema. Hay que exponer la relevancia del objeto de estudio.(6% - 840-900)
+
+Marco Teórico
+: El estado de la cuestión es el resultado de la consulta bibliográfica y el estudio de los expertos. En este apartado se espera encontrar un recorrido por enfoques y autores que se hacen preguntas similares a la de la investigación, que tratan temas relacionados y procuran resolver problemas compartidos. Es un espacio en el que, igualmente, se puede expresar argumentos a favor o en contra, y ser críticos con algunas teorías y autores. (35% - 4900-5250)
+
+Método
+: Exposición de la unidad de análisis escogida y de las técnicas que se piensan utilizar para la recogida, la elaboración y el análisis de los datos y su adecuación al objeto de estudio y problema escogido. Hay que dedicar un espacio para reflexionar sobre las elecciones que se han tomado con relación a las técnicas de recogida y tratamiento de la información, y a la metodología de análisis e interpretación de los datos. Incluirá los diferentes pasos o fases de la investigación. (10% - 1400-1500)
+
+Resultados
+:  Apartados o capítulos en los cuales se presenta el análisis de los datos obtenidos como fruto de la investigación.(30% - 4200-4500)
+
+Discusión y Conclusiones
+: Este es un apartado importante de la memoria de investigación, en donde se ha de explicar de una forma clara y sintética las aportaciones más importantes del trabajo. Las conclusiones no siempre tienen que ser cuestiones que la investigación ha solucionado, sino que a veces se trata de plantear nuevas preguntas o líneas de investigación que el proyecto podría desarrollar en el futuro.(15% - 2100-2250)
+
+Referencias
+: La bibliografía de referencia irá listada alfabéticamente bajo el título de bibliografía. Tiene que contener la bibliografía y otras fuentes documentales que habéis utilizado para la investigación. APA 7
+
+Anexos
+: Gráficos, datos originales, transcripciones y otros documentos que aporten aspectos significativos complementarios al texto de la memoria de investigación. Si procede
 :::
 
 ## Metodologías de Investigación Educativa

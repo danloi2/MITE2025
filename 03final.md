@@ -47,7 +47,7 @@ La siguiente tabla recoge los apartados del Trabajo Fin de Master en Educación 
   - 35%
   - 4900-5250
 * - Elementos teóricos y conceptuales
-  - Identificación de las bases teóricas y conceptuales sobre las que se construye el problema, es decir, con qué autores, con qué teorías, conceptos o definiciones tratamos de resolver las preguntas de la investigación.
+  - Identific1. **Anexos**: si procedeación de las bases teóricas y conceptuales sobre las que se construye el problema, es decir, con qué autores, con qué teorías, conceptos o definiciones tratamos de resolver las preguntas de la investigación.
   - -
   - 500-600
 * - MÉTODO

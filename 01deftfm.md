@@ -102,6 +102,36 @@ Anexos
 : Gráficos, datos originales, transcripciones y otros documentos que aporten aspectos significativos complementarios al texto de la memoria de investigación. Si procede
 :::
 
+:::{mermaid}
+:name: tfmmermaid
+
+flowchart TD;
+    Portada["Portada"];
+    Resumen["Resumen"];
+    Agradecimientos["Agradecimientos (Opcional)"];
+    Índice["Índice"];
+    Introducción["Introducción"];
+    Objetivos["Objetivos y Justificación"];
+    MarcoTeorico["Marco Teórico"];
+    Método["Método"];
+    Resultados["Resultados"];
+    Discusión["Discusión y Conclusiones"];
+    Referencias["Referencias"];
+    Anexos["Anexos"];
+    
+    Portada --> Resumen;
+    Resumen --> Agradecimientos;
+    Agradecimientos --> Índice;
+    Índice --> Introducción;
+    Introducción --> Objetivos;
+    Objetivos --> MarcoTeorico;
+    MarcoTeorico --> Método;
+    Método --> Resultados;
+    Resultados --> Discusión;
+    Discusión --> Referencias;
+    Referencias --> Anexos;
+:::
+
 ## Metodologías de Investigación Educativa
 
 ### Tradiciones y Corrientes de Investigación

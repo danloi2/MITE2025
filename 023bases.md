@@ -1,4 +1,12 @@
-# 3. Entregable: Esquematizo una Revisión inicial de la Literatura
+---
+title: 3. Fundamentos Teóricos
+subtitle: Esquematizo una Revisión inicial de la Literatura
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

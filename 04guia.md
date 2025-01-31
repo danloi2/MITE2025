@@ -1,4 +1,12 @@
-# Guía Didáctica
+---
+title: Guía Didáctica
+subtitle: MITE en el Máster de Educación Digital
+subject: Información Adicional
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
 
 :::{admonition} Información Básica
 :class: note

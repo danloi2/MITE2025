@@ -1,12 +1,24 @@
-# TFM en Acción: Diseña tu Proyecto en Tecnología Educativa
+---
+title: TFM en Acción
+subtitle: Diseña tu Proyecto en Tecnología Educativa
+subject: Página Principal
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
 
-¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **{term}`Trabajo Fin de Máster`**!
+{large}`¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!`
 
-```{admonition} Información del Profesorado
+:::{hero}
+Proyecto de {orange}`Trabajo Fin de Máster`
+:::
+
+:::{admonition} Información del Profesorado
 :class: dropdown
 
 Mi nombre es [DANIEL LOSADA](https://ekoizpen-zientifikoa.ehu.eus/investigadores/130988/detalle?lang=es), Profesor Titular de la [UPV/EHU](https://www.ehu.eus/es) y coordinador de esta asigntura. Mis compañeros [HÉCTOR GALINDO](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128701/detalle) y [LUCÍA CAMPO](https://ekoizpen-zientifikoa.ehu.eus/investigadores/460495/detalle) también forman parte del equipo docente de esta asignatura.
-```
+:::
 
 ## ¿Qué transformación busca esta asignatura sobre ti?
 
@@ -24,11 +36,11 @@ Al finalizar, diseñarás un **PROYECTO DE TRABAJO FIN DE MÁSTER**, fundamentad
 
 ## ¿Cuáles son las lecturas obligatorias?
 
-Las lecturas necesarias para llevar a cabo las tareas son las siguientes: [](#tab:lecturas)
+Las lecturas necesarias para llevar a cabo las tareas son las siguientes: @lecturas
 
 ::: {list-table} Lista de Lecturas Obligatorias
 :header-rows: 1
-:label: tab:lecturas
+:label: lecturas
 
    *  - **Apartados del TFM**
       - **Documentos**
@@ -88,11 +100,11 @@ Las competencias investigadoras necesarias para planificar el **{term}`MARCO CON
 
 ## ¿Cuál es el Itinerario de Aprendizaje?
 
-Durante el curso desarrollarás 8 actividades clave: [](#tab:actividades)
+Durante el curso desarrollarás 8 actividades clave: @actividades
 
 ::: {list-table} Lista de Actividades
 :header-rows: 1
-:label: tab:actividades
+:label: actividades
 
    *  - Actividad
       - Formato de Entrega
@@ -188,13 +200,6 @@ Crear
 : "Utilizar lo aprendido y las habilidades adquiridas para construir ideas nuevas.	
 :::
 
-
-
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
 :::
-
-
-
-
-

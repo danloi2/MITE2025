@@ -4,13 +4,20 @@ project:
   id: 303fc0bd-e316-4e7c-b698-9cfb177e038b
   license: CC-BY-4.0
   open_access: true
-  title: TFM en Acción Diseña tu Proyecto en Tecnología Educativa
+  title: TFM en Acción
   subtitle: Guía Didáctica
   #short_title: MITE
   description: Guía Didáctica de la Asignatura "Metodología de Investigación en Tecnología Educativa"
   # keywords: []
   bibliography: recursos/biblio.bib
   date: 2025-01-01
+  plugins:
+    - src/xref.mjs
+    - src/landing-page.mjs
+    - src/directives.mjs
+    - src/admonition.mjs
+
+
   downloads:
     - file: ./recursos/2025_GuiaMITE.pdf
       title: Guía Didáctica MITE
@@ -61,17 +68,16 @@ project:
     - title: EL PROYECTO DE TRABAJO DE FIN DE MÁSTER
       children:
         - file: 03final.md
-    - title: EL MARCO CONCEPTUAL
-      children:
         - file: 02tareas.md
-          children:
-            - file: 021objetivosp.md
-            - file: 022posicion.md 
-            - file: 023bases.md
-            - file: 024problema.md
-            - file: 025preguntas.md
-            - file: 026diseno.md
-            - file: 031proyecto.md
+    - title: ACTIVIDADES
+      children:    
+        - file: 021objetivosp.md
+        - file: 022posicion.md 
+        - file: 023bases.md
+        - file: 024problema.md
+        - file: 025preguntas.md
+        - file: 026diseno.md
+        - file: 031proyecto.md
     - title: Información Adicional
       children:
         - file: 04guia.md

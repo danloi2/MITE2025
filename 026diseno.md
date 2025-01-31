@@ -1,4 +1,12 @@
-# 6. Entregable: Justifico un Diseño de Investigación
+---
+title: 6. Diseño de Investigación
+subtitle: Justifico un Diseño de Investigación
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

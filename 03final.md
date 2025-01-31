@@ -1,4 +1,12 @@
-# ¿Cómo redacto la información más importante sobre mi Proyecto de Trabajo Fin de Máster?
+---
+title: ¿Qué es un Proyecto de Trabajo Fin de Máster?
+subtitle: El planteamiento de la Investigación
+subject: Proyecto de Trabajo Fin de Máster
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
 
 ## El Proyecto del Trabajo de Fin de Máster
 

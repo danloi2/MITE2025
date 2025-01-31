@@ -1,4 +1,12 @@
-# 5. Entregable: Formulo las Preguntas de Investigación
+---
+title: 5. Preguntas de Investigación
+subtitle: Formulo las Preguntas de Investigación
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

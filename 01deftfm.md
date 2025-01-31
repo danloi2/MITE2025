@@ -1,3 +1,13 @@
+---
+title: ¿Qué es un Trabajo Fin de Máster?
+subtitle: Proyecto Individual de Investigación Original
+subject: Trabajo Fin de Máster
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
 # ¿Qué es un Trabajo Fin de Máster?
 
 ## Introducción

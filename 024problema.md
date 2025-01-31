@@ -1,4 +1,12 @@
-# 4. Entregable: Defiendo mi Problema de Investigación
+---
+title: 4. Problema de Investigación
+subtitle: Defiendo mi Problema de Investigación
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

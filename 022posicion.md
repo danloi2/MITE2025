@@ -1,4 +1,12 @@
-# 2. Entregable: Interpreto mi Posicionamiento como Investigador
+---
+title: 2. Posicionamiento de Investigación
+subtitle: Interpreto mi Posicionamiento como Investigador
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

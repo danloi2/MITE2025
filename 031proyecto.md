@@ -1,4 +1,12 @@
-# 7. Entregable: Redacto el Proyecto de Investigación
+---
+title: 7. Proyecto de TFM
+subtitle: Redacto el Proyecto de Investigación
+subject: Proyecto de Trabajo Fin de Máster
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+--- 
 
 ---
 

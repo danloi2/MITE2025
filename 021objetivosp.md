@@ -1,4 +1,12 @@
-# 1. Entregable: Conecto mis Objetivos con la Temática
+---
+title: 1. Objetivos Personales
+subtitle: Conecto mis Objetivos con la Temática
+subject: Marco Conceptual
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
 
 ---
 

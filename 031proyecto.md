@@ -93,3 +93,88 @@ Elije la herramienta TIC adecuada
 ## Entregas al Espacio Virtual de Aprendizaje
 
 - [ ] Envío del enlace del documento en formato PDF en el foro correspondiente del curso del campus virtual.
+
+## Evaluación
+
+### Rúbrica de Evaluación del Proyecto de TFM
+
+```{list-table} Rúbrica de Evaluación
+:header-rows: 1
+:name: rubrica-tfm
+
+* - **Criterio**
+  - **0 puntos**
+  - **0.25 puntos**
+  - **0.5 puntos**
+  - **0.75 puntos**
+  - **1 punto**
+
+* - **Planteamiento del Problema**
+  - No presenta planteamiento del problema o está completamente ausente.
+  - Presenta un planteamiento del problema muy básico o poco claro, con falta de coherencia o relación con el tema propuesto.
+  - Presenta un planteamiento medianamente desarrollado, aunque algunas ideas no están bien definidas ni conectadas entre sí.
+  - Presenta un planteamiento claro y detallado, acompañado de preguntas orientadoras relevantes, pero podría profundizarse más en las variables o factores relacionados.
+  - Presenta un planteamiento del problema detallado, claro y extenso, acompañado de preguntas orientadoras o hipótesis bien definidas, identificando claramente las variables, condiciones y factores que pueden influir en el problema a investigar.
+
+* - **Objetivos**
+  - No presenta objetivos o están mal redactados y no están alineados con el problema planteado.
+  - Presenta algunos objetivos, pero están vagos, ambiguos o no están directamente relacionados con el problema planteado.
+  - Los objetivos están correctamente redactados, pero algunos son difíciles de alcanzar o no están completamente alineados con el problema.
+  - Los objetivos están correctamente redactados y están alineados con el problema planteado, aunque podrían ser más ambiciosos o específicos.
+  - Los objetivos están correctamente redactados, son ambiciosos, específicos y realistas, y están perfectamente alineados con el problema planteado.
+
+* - **Marco Teórico**
+  - No fundamenta teóricamente el proyecto o carece de referencias bibliográficas.
+  - La fundamentación teórica es insuficiente debido a la escasez de referencias bibliográficas o a su baja calidad.
+  - La fundamentación teórica está parcialmente desarrollada, con referencias bibliográficas adecuadas pero desactualizadas o poco relevantes para el tema.
+  - La fundamentación teórica está bien estructurada, con referencias bibliográficas suficientes y de calidad, aunque falta algún aspecto clave o aportaciones personales.
+  - La fundamentación teórica está muy bien estructurada, presenta referencias bibliográficas actualizadas y relevantes, y añade aportaciones personales o subjetivas fruto de lecturas o experiencias personales.
+
+* - **Metodología**
+  - No explica la metodología o la metodología seleccionada no es apropiada para el tipo de investigación propuesta.
+  - Explica una metodología básica, pero no está ajustada a las necesidades del proyecto o carece de detalles importantes.
+  - La metodología explicada se ajusta a las necesidades del proyecto, aunque falta precisión en la descripción de cómo se recogerán y analizarán los datos.
+  - La metodología explicada organiza los pasos a seguir, se ajusta a las necesidades del proyecto y describe cómo se recogerán y analizarán los datos, aunque podría profundizarse más en algunos aspectos.
+  - La metodología explicada organiza los pasos a dar, se ajusta perfectamente a las necesidades del proyecto, identifica el contexto de actuación y el rol del investigador, detalla las características de la población y de la investigación, y explica exhaustivamente cómo se realizará la recogida y análisis de datos y la difusión de información.
+
+* - **Selección de la Muestra**
+  - No se explica la selección de la muestra o está completamente ausente.
+  - Se menciona la selección de la muestra, pero está mal definida o no tiene relación con el diseño de investigación elegido.
+  - La selección de la muestra está definida, pero no está justificada ni fundamentada, lo que genera dudas sobre su validez.
+  - La selección de la muestra es coherente con el diseño de investigación elegido, está bien definida e identificada, aunque la justificación podría ser más sólida o fundamentada bibliográficamente.
+  - La selección de la muestra es coherente con el diseño de investigación elegido, está bien definida, identificada y justificada, y está fundamentada bibliográficamente con referencias relevantes.
+
+* - **Técnicas de Recolección de Datos**
+  - Las técnicas de recogida de información no son válidas, son escasas o están mal aplicadas.
+  - Se mencionan técnicas de recogida de información, pero no están bien definidas ni justificadas, lo que afecta a la validez de los datos.
+  - Explica una técnica de recogida de información, argumentándola parcialmente, pero no define la muestra necesaria para garantizar la fiabilidad de la información.
+  - Explica dos o más técnicas de recogida de información, argumentándolas correctamente, aunque podría profundizarse más en la definición de la muestra o en la combinación de técnicas.
+  - Explica dos o más técnicas de recogida de datos, argumentándolas y justificándolas claramente, y define la muestra necesaria para garantizar la validez y fiabilidad de la información.
+
+* - **Propuesta de Análisis de Datos**
+  - No se hace explícito cómo se hará el análisis de datos.
+  - Se comenta superficialmente cómo se hará el análisis de datos, pero sin proporcionar detalles claros o útiles.
+  - Está definido el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos), pero carece de detalles importantes o no está completamente alineado con el diseño de investigación.
+  - Está bien definido el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos) y es coherente con el diseño de investigación, aunque podría incluir más detalles sobre herramientas informáticas o métodos específicos.
+  - Está definido y ordenado el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos), es coherente con el diseño de investigación, e identifica herramientas informáticas (ATLAS TI, NVIVO, SPSS) para facilitar este proceso.
+
+* - **Planificación y Cronograma**
+  - No presenta una planificación temporal del proyecto.
+  - Realiza una planificación temporal, pero carece de detalles o contiene errores significativos que afectan a la viabilidad del proyecto.
+  - Realiza una planificación temporal utilizando algún sistema de planificación (PERT, GANTT, etc.), aunque se detectan pequeños fallos o inconsistencias en el cronograma.
+  - Realiza una planificación temporal del proyecto mediante el uso de gráficas como el PERT o diagramas de GANT, identificando hitos importantes, aunque podría mejorar en la precisión de los tiempos asignados.
+  - Realiza una planificación temporal del proyecto, identificando claramente los hitos o puntos críticos del mismo y los diferentes entregables, haciendo uso de gráficas como el PERT, diagramas de GANT o ANSI, con tiempos realistas y bien distribuidos.
+
+* - **Ética**
+  - No menciona ningún aspecto ético en el proyecto.
+  - Se posiciona vagamente sobre aspectos éticos, pero sin profundizar en detalles importantes.
+  - Refiere la importancia de los aspectos éticos en la investigación, aunque no adjunta ningún modelo ni proporciona ejemplos concretos.
+  - Incluye consideraciones éticas relevantes para el proyecto, identificando posibles riesgos y medidas preventivas, aunque falta algún detalle específico o un modelo formal adjunto.
+  - Tiene previsto la firma de un acuerdo de compromiso ético y lo adjunta como anexo, abordando todos los aspectos éticos relevantes para el proyecto de manera completa y detallada.
+
+* - **Referencias**
+  - No cuenta con referencias bibliográficas o no incluye un apartado de referencias bibliográficas.
+  - Recoge algunas referencias bibliográficas, pero no siguen las normas APA ni están bien integradas en el texto.
+  - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, aunque algunas faltan o no están bien formateadas, y el apartado de referencias bibliográficas está incompleto.
+  - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, y cuenta con un apartado de referencias bibliográficas completo, aunque podría mejorarse con herramientas tecnológicas para gestión de referencias.
+  - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, y cuenta con un apartado de referencias bibliográficas completo y bien organizado, aplicando herramientas como Zotero o RefWorks para facilitar la gestión de referencias.

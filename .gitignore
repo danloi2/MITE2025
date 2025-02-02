@@ -168,3 +168,6 @@ _build
 
 # Jupyter Book (via myst) build outputs
 _build
+
+# Jupyter Book (via myst) build outputs
+_build

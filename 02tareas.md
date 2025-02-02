@@ -21,7 +21,7 @@ Además, el marco conceptual cumple un papel clave en la interconexión entre la
 
 ## ¿Cuáles son las 6 puntales del Marco Conceptual?
 
-Durante estas tres semanas te vas a dedicar a desarrollar el **Marco Conceptual** de la investigación @marco, nucleo fundamental de cualquier estudio y **reto** de esta asignatura. A lo largo de este curso es necesario que realices una serie de lecturas @lecturas que te servirán para realizar las tareas @actividades. Las tareas intermedias hay que entregalas en los forso del curso del campus virtual y las 2 tareas finales hay que subirlas como documentos ([info](#lugar)). Existe un [calendario de entrega sugerido](#aprox).
+Durante estas tres semanas te vas a dedicar a desarrollar el **Marco Conceptual** de la investigación @marco, nucleo fundamental de cualquier estudio y **Situación de Aprendizaje** de esta asignatura. A lo largo de este curso es necesario que realices una serie de lecturas @lecturas que te servirán para realizar las tareas @actividades. Las tareas intermedias hay que entregalas en los foros del curso del campus virtual y las 2 tareas finales hay que subirlas como documentos ([info](#lugar)). Existe un [calendario de entrega sugerido](#aprox).
 
 - @021objetivosp.md (05/01/2025) {term}`(+info) <Objetivos Personales>` 
 - @022posicion.md (07/01/2025)  ({term}`Positivista`, {term}`Postpositivista`, {term}`Constructivista`, {term}`Transformador`  {term}`Pragmático`)

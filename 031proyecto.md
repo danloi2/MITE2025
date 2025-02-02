@@ -98,7 +98,7 @@ Elije la herramienta TIC adecuada
 
 ### Rúbrica de Evaluación del Proyecto de TFM
 
-```{list-table} Rúbrica de Evaluación
+:::{list-table} Rúbrica de Evaluación
 :header-rows: 1
 :name: rubrica-tfm
 
@@ -178,3 +178,5 @@ Elije la herramienta TIC adecuada
   - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, aunque algunas faltan o no están bien formateadas, y el apartado de referencias bibliográficas está incompleto.
   - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, y cuenta con un apartado de referencias bibliográficas completo, aunque podría mejorarse con herramientas tecnológicas para gestión de referencias.
   - Están recogidas en el texto las referencias bibliográficas siguiendo las indicaciones de la APA, y cuenta con un apartado de referencias bibliográficas completo y bien organizado, aplicando herramientas como Zotero o RefWorks para facilitar la gestión de referencias.
+:::
+

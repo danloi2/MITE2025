@@ -28,6 +28,7 @@ project:
   authors:
     - name: Daniel Losada
       orcid: https://orcid.org/0000-0003-3842-7694
+      twitter: dani_losada
       roles:
       - Conceptualization
       - Data curation
@@ -93,7 +94,7 @@ site:
   template: book-theme
   options:
   #   favicon: favicon.ico
-      logo: img/logo.png
+      logo: img/MITE.png
       numbered_references: false
       twitter: dani_losada
       logo_text: METODOLOGÍA DE INVESTIGACIÓN EN TECNOLOGÍA EDUCATIVA (2025)

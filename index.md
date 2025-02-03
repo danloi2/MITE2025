@@ -111,25 +111,25 @@ Durante el curso desarrollarás 8 actividades clave: @actividades
       - Fecha de Entrega
    *  - [](021objetivosp.md)
       - Video Presentación
-      - 5/01/2025
+      - 5/02/2025
    *  - [](022posicion.md)
       - Infografía
-      - 7/01/2025
+      - 7/02/2025
    *  - [](023bases.md)
       - Mapa Conceptual
-      - 12/01/2025
+      - 12/02/2025
    *  - [](024problema.md)
       - Presentación Interactiva
-      - 14/01/2025
+      - 14/02/2025
    *  - [](025preguntas.md)
       - Actividad Gamificada
-      - 18/01/2025
+      - 18/02/2025
    *  - [](026diseno.md)
       - Google Drive
-      - 20/01/2025
+      - 20/02/2025
    *  - [](031proyecto.md)
       - PDF
-      - 23/01/2025
+      - 23/02/2025
    *  - (8) Reflexión
       - Prueba Escrita (Examen)
       - 13/05/2025
@@ -139,17 +139,17 @@ Durante el curso desarrollarás 8 actividades clave: @actividades
 :name:actmermaid
 
 gitGraph
-    commit id:"Inicio" type: HIGHLIGHT tag: "03/01"
-    commit id:"Videollamada"type: HIGHLIGHT tag: "04/01"
+    commit id:"Inicio" type: HIGHLIGHT tag: "03/02"
+    commit id:"Videollamada"type: HIGHLIGHT tag: "04/02"
     branch "Marco Conceptual"
-    commit id:"(1) Objetivos" tag: "05/01"
-    commit id:"(2) Posicionamiento" tag: "07/01"
-    commit id:"(3) Bases" tag: "12/01"
-    commit id:"(4) Problema" tag: "14/01"
-    commit id:"(5) Preguntas" tag: "18/01"
-    commit id:"(6) Diseño" tag: "20/01"
+    commit id:"(1) Objetivos" tag: "05/02"
+    commit id:"(2) Posicionamiento" tag: "07/02"
+    commit id:"(3) Bases" tag: "12/02"
+    commit id:"(4) Problema" tag: "14/02"
+    commit id:"(5) Preguntas" tag: "18/02"
+    commit id:"(6) Diseño" tag: "20/02"
     checkout main
-    merge "Marco Conceptual"id:"Proyecto TFM" type: HIGHLIGHT tag: "23/01"
+    merge "Marco Conceptual"id:"Proyecto TFM" type: HIGHLIGHT tag: "23/02"
     commit id:"Examen" type: HIGHLIGHT tag: "13/05"
     commit id:"Fin" type: HIGHLIGHT tag: "25/06"
 :::

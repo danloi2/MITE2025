@@ -47,8 +47,8 @@ Además, la identificación de un problema de investigación implica reconocer l
 - Problema de Investigación: Elige uno de los siguientes tipos de problemas de investigación y justifica tu elección en base a ese tipo:
     - [ ] Conocimiento de una práctica emergente: Se enfoca en desarrollar un entendimiento más profundo de una práctica habitual, especialmente en contextos nuevos o en evolución.
     - [ ] Comprobación de una teoría: Tiene como objetivo validar o refutar una teoría existente, evaluando su consistencia y aplicabilidad en un contexto específico.
-    - [ ]Generalizabilidad: Busca extrapolar el conocimiento obtenido a partir de una teoría para aplicarlo a otras situaciones, contextos o grupos, evaluando su alcance general.
-    - [ ]Ampliación de la comprensión: Proporciona un análisis más amplio y profundo de un problema, generando nuevos enfoques y perspectivas para su interpretación.
+    - [ ] Generalizabilidad: Busca extrapolar el conocimiento obtenido a partir de una teoría para aplicarlo a otras situaciones, contextos o grupos, evaluando su alcance general.
+    - [ ] Ampliación de la comprensión: Proporciona un análisis más amplio y profundo de un problema, generando nuevos enfoques y perspectivas para su interpretación.
     - [ ] Avance metodológico: Contribuye al desarrollo de nuevas formas, técnicas o metodologías de investigación, facilitando el progreso en cómo se abordan los problemas científicos.
     - [ ] Temas actuales: Se relaciona con problemas de relevancia política, social o cultural, abordando cuestiones que tienen un impacto significativo en la sociedad contemporánea 
     - [ ] Evaluación de una práctica o política en un contexto específico: Analiza la efectividad, pertinencia o impacto de una práctica o política en un entorno particular, proporcionando información para la toma de decisiones.

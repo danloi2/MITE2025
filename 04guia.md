@@ -21,3 +21,4 @@ La documentación oficial:
 * [Guía del Máster](recursos/2025_Guia.pdf)
 * [Calendario del Máster](recursos/2025_Calendario.pdf)
 * [Guía Didáctica de MITE](recursos/2025_GuiaMITE.pdf)
+* [Guía Didáctica TFM](recursos/2025_Guia_TFM_v1.pdf)

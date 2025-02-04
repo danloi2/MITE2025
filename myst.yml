@@ -21,6 +21,7 @@ project:
   downloads:
     - file: ./recursos/2025_GuiaMITE.pdf
       title: Guía Didáctica MITE
+    - file: ./recursos/2025_Guia_TFM_v1.pdf
   abbreviations:
      MITE: Metodología de Investigación en Tecnología Educativa
      TFM: Trabajo Fin de Máster∫

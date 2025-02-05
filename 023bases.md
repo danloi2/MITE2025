@@ -51,8 +51,9 @@ Fundamentos Teóricos
 - [ ] Establecer un conjunto de bases de datos
 - [ ] Definición del conjunto de estrategias
 
+3.  **CREA** una mapa conceptual utilizando una herramienta web 2.0 que recoja algunos fundamentos teóricos de tu futuro TFM.
 
-3. **COMPARTE** tu mapa conceptual en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
+4. **COMPARTE** tu mapa conceptual en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 
 ## Recursos
 

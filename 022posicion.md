@@ -66,7 +66,9 @@ Pragmático
 **Enfoque:** Uso de métodos mixtos, con una combinación de aproximaciones inductivas y deductivas según lo requiera el estudio.
 ::: 
 
-3. **COMPARTE** tu video en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
+3. **CREA** una infografía utilizando una herramienta web 2.0 que recoja tu posicionamiento como investigador.
+
+4. **COMPARTE** tu infografía en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 
 ## Recursos
 

@@ -85,6 +85,7 @@ Las preguntas de investigación son una parte fundamental del problema de invest
 
 
 2. **CREA** un diagrama visual que relacione las preguntas con el problema de investigación.
+
 3. **COMPARTE** tu diagrama visual en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 
 

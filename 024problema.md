@@ -41,7 +41,7 @@ Para que un problema de investigación sea significativo, debe estar vinculado c
 Además, la identificación de un problema de investigación implica reconocer lagunas en el conocimiento existente, ya sea por la ausencia de sistematización, la falta de desarrollo en ciertos temas o la existencia de aspectos no suficientemente explorados en la literatura revisada {cite:p}`2021jorrin`. De esta manera, el problema de investigación no solo delimita el objeto de estudio, sino que también fundamenta la pertinencia de la investigación dentro de un campo específico del conocimiento.
 :::
 
-2. CREA una presentación interactiva que justifica tu investigación, mediante el siguiente guión:
+2. **CREA** una presentación interactiva que justifica tu investigación, mediante el siguiente guión:
 
 - Tema de Investigación: Avance
 - Problema de Investigación: Elige uno de los siguientes tipos de problemas de investigación y justifica tu elección en base a ese tipo:

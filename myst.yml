@@ -16,8 +16,6 @@ project:
     - src/landing-page.mjs
     - src/directives.mjs
     - src/admonition.mjs
-
-
   downloads:
     - file: ./recursos/2025_GuiaMITE.pdf
       title: Guía Didáctica MITE

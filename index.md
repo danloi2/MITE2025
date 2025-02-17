@@ -2,17 +2,36 @@
 title: TFM en Acción
 subtitle: Diseña tu Proyecto en Tecnología Educativa
 subject: Página Principal
+# epigraph: No funciona
+# abstract: Resumen corto
+# summary: Texto facilitado
+# dedication: Abcabc
+# acknowledgments: Jesús Valverde
+# keypoints: Metodología, Investigación Educativa, Trabajo Fin de Máster, Programa. 
 site:
   hide_outline: false
   hide_toc: false
   hide_title_block: false
 ---
 
-{large}`¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!`
-
 :::{hero}
 Proyecto de {orange}`Trabajo Fin de Máster`
 :::
+
+:::{epigraph}
+Ad discendum quod opus est nulla mihi aetas sera videri potest.
+
+No hay edad que me parezca demasiado tardía para aprender lo que es necesario.
+
+-- San Agustín (354-430)
+:::
+
+
+
+
+{large}`¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!`
+
+
 
 :::{admonition} Información del Profesorado
 :class: dropdown
@@ -202,4 +221,7 @@ Crear
 
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
+
+-- Dani
 :::
+

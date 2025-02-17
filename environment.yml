@@ -1,31 +1,29 @@
 name: MITE2025
 channels:
-  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
-  - _openmp_mutex=4.5=2_gnu
-  - bzip2=1.0.8=h4bc722e_7
-  - ca-certificates=2025.1.31=hbcca054_0
-  - ld_impl_linux-64=2.43=h712a8e2_2
-  - libffi=3.4.6=h2dba641_0
-  - libgcc=14.2.0=h77fa898_1
-  - libgcc-ng=14.2.0=h69a702a_1
-  - libgomp=14.2.0=h77fa898_1
-  - liblzma=5.6.4=hb9d3cd8_0
-  - libnsl=2.0.1=hd590300_0
-  - libsqlite=3.48.0=hee588c1_1
-  - libuuid=2.38.1=h0b41bf4_0
-  - libxcrypt=4.4.36=hd590300_1
-  - libzlib=1.3.1=hb9d3cd8_2
-  - ncurses=6.5=h2d0b736_3
-  - openssl=3.4.1=h7b32b05_0
-  - pip=25.0.1=pyh8b19718_0
-  - python=3.9.21=h9c0c6dc_1_cpython
-  - readline=8.2=h8228510_1
-  - setuptools=75.8.0=pyhff2d567_0
-  - tk=8.6.13=noxft_h4845f30_101
-  - tzdata=2025a=h78e105d_0
-  - wheel=0.45.1=pyhd8ed1ab_1
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2024.12.31=h06a4308_0
+  - ld_impl_linux-64=2.40=h12ee557_0
+  - libffi=3.4.4=h6a678d5_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=3.0.15=h5eee18b_0
+  - pip=25.0=py39h06a4308_0
+  - python=3.9.21=he870216_1
+  - readline=8.2=h5eee18b_0
+  - setuptools=75.8.0=py39h06a4308_0
+  - sqlite=3.45.3=h5eee18b_0
+  - tk=8.6.14=h39e8969_0
+  - tzdata=2025a=h04d1e81_0
+  - wheel=0.45.1=py39h06a4308_0
+  - xz=5.6.4=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_1
   - pip:
       - anyio==4.8.0
       - argon2-cffi==23.1.0
@@ -107,4 +105,4 @@ dependencies:
       - webencodings==0.5.1
       - websocket-client==1.8.0
       - zipp==3.21.0
-prefix: /home/danloi/miniforge3/envs/MITE2025
+prefix: /home/danloi/anaconda3/envs/MITE2025

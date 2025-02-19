@@ -192,7 +192,7 @@ Todas las actividades se entregan en los foros del campus virtual, excepto el Pr
 :class: seealso
 :name: apa
 
-Para más detalles sobre cada actividad y acceso a las lecturas, consulta el campus virtual. Recuerda que seguiremos las normas APA 7ª edición para todas las referencias y citas.
+Para más detalles sobre cada actividad y acceso a las lecturas, consulta el campus virtual. Recuerda que seguiremos las normas {cite:author}`apaweb`7ª edición para todas las referencias y citas.
 :::
 
 :::{glossary}

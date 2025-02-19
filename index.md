@@ -141,10 +141,10 @@ Durante el curso desarrollarás 8 actividades clave: @actividades
       - Presentación Interactiva
       - 14/02/2025
    *  - [](025preguntas.md)
-      - Actividad Gamificada
+      - Diagrama Visual
       - 18/02/2025
    *  - [](026diseno.md)
-      - Google Drive
+      - Mural o tablero digital
       - 20/02/2025
    *  - [](031proyecto.md)
       - PDF

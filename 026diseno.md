@@ -43,7 +43,7 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
 Diseño de Investigación
 : (a) Cuantitativo; (b) Cualitativo; (c) Mixto \
 En Investigaciones Cuantitativas: Validez Interna, Validez Externa, Fiabilidad y Objetividad. 
-En Investigaciones Cualitativas: Credibilidad, Transfebilidad, dependencia, Confirmabilidad.
+En Investigaciones Cualitativas: Credibilidad, Transfebilidad, Consistencia, Confirmabilidad.
 
 Hipótesis y Variables
 : (a) Hipótesis; (b) Variables 

@@ -210,9 +210,9 @@ Fase de Difusión
 
 :::
 
-### Herramientas de Análisis de Datos
+### Herramientas para Análisis de Datos
 
-**(a) Técnicas**
+**(a) Técnicas para el Análisis de Datos**
 
 Las técnicas de análisis son los métodos utilizados para procesar y examinar los datos. Se dividen según el enfoque de la investigación:
 
@@ -258,7 +258,7 @@ Análisis de correspondencia
 
 :::
     
-**(b) Estratégias**
+**(b) Estratégias para el Análisis de Datos**
 
 Las estrategias son enfoques o planes de acción que facilitan el procesamiento e interpretación de los datos.
 
@@ -304,7 +304,7 @@ Uso de diagramas y mapas conceptuales
 
 :::
 
-**(c) Herramientas**
+**(c) Herramientas para el Análisis de Datos**
 
 Son los programas o instrumentos utilizados para procesar y visualizar los datos de manera efectiva.
 

@@ -167,10 +167,10 @@ De este planteamiento se derivan **3 grandes corrientes de investigación**: ([]
 
 :::{glossary}
 Investigación Cuantitativa
-: Adecuada  para estudios que requieren datos numéricos y análisis estadísticos.
+: Adecuada  para estudios que requieren datos numéricos y análisis estadísticos. Las investigaciones cuantitativas buscan establecer relaciones de causa y efecto mediante el uso de datos numéricos y análisis estadísticos.
 
 Investigación Cualitativa
-: Ideal para explorar conceptos complejos y obtener perspectivas profundas.
+: Ideal para explorar conceptos complejos y obtener perspectivas profundas. El énfasis se encuentra en la comprensión profunda de fenómenos sociales y humanos desde una perspectiva interpretativa.
 
 Investigación Mixta
 : Combina métodos cuantitativos y cualitativos para un análisis completo.

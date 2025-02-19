@@ -221,7 +221,7 @@ Crear
 
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
-
+ 
 -- Dani
 :::
 

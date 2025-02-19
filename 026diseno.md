@@ -32,7 +32,7 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
 
 ## Descripción de la Tarea  
 
-1. **PROPON** un diseño de investigación que pueda dar respuesta a las preguntas de investigación formuladas en la actividad anterior:  
+1. **PROPÓN** un diseño de investigación que pueda dar respuesta a las preguntas de investigación formuladas en la actividad anterior:  
    - Especifica la tradición investigadora y el tipo de diseño (No experimental, cuasi-experimental, experimental, etc.).  
    - Justifica nuestra elección en función de los objetivos del problema planteado.  
 2. **CREA** un tablero o mural digital que resuma las características principales del diseño seleccionado, considerando aspectos:
@@ -42,7 +42,8 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
 
 Diseño de Investigación
 : (a) Cuantitativo; (b) Cualitativo; (c) Mixto \
-Validez interna, validez externa, fiabilidad y objetividad. 
+En Investigaciones Cuantitativas: Validez Interna, Validez Externa, Fiabilidad y Objetividad. 
+En Investigaciones Cualitativas: Credibilidad, Transfebilidad, dependencia, Confirmabilidad.
 
 Hipótesis y Variables
 : (a) Hipótesis; (b) Variables 

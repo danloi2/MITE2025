@@ -173,7 +173,19 @@ Investigación Cualitativa
 : Ideal para explorar conceptos complejos y obtener perspectivas profundas. El énfasis se encuentra en la comprensión profunda de fenómenos sociales y humanos desde una perspectiva interpretativa.
 
 Investigación Mixta
-: Combina métodos cuantitativos y cualitativos para un análisis completo.
+: La investigación mixta es un enfoque que **combina métodos cualitativos y cuantitativos en un mismo estudio** para obtener una comprensión más completa de un fenómeno. Se basa en la integración de datos numéricos y narrativos, permitiendo un análisis más profundo y una triangulación de resultados.Ejemplos en Educación Digital: \
+**Enfoque Secuencial / Iterativo** \
+Este enfoque **se desarrolla en fases ordenadas, donde los resultados de una etapa influyen en el diseño o implementación de la siguiente**. Dependiendo del propósito del estudio, puede ser **exploratorio (cualitativo → cuantitativo)** o e**xplicativo (cuantitativo → cualitativo)**. \
+Ejemplo: Un estudio sobre el impacto de una plataforma de aprendizaje adaptativo en la motivación estudiantil.\
+Fase 1 (Cualitativa): Se realizan entrevistas a docentes y estudiantes para identificar percepciones y desafíos del uso de la plataforma. \
+Fase 2 (Cuantitativa): A partir de los hallazgos cualitativos, se diseña una encuesta para medir la motivación en una muestra más amplia. \
+Fase 3 (Cualitativa): Se llevan a cabo grupos focales para interpretar los resultados cuantitativos y obtener una comprensión más profunda de las tendencias observadas. \
+**Enfoque Concurrente / Simultáneo** \
+Se implementan **los métodos cualitativos y cuantitativos al mismo tiempo, sin que una fase dependa de la otra**. Los datos se analizan por separado y luego se comparan para encontrar coincidencias, diferencias o relaciones complementarias. Permite obtener una visión más completa y reforzar la validez de los hallazgos. \
+Ejemplo: Un estudio sobre la efectividad de la gamificación en cursos en línea. \
+Se aplica una encuesta cuantitativa para medir la satisfacción y el compromiso de los estudiantes.\
+Simultáneamente, se analizan foros de discusión y entrevistas para obtener una perspectiva cualitativa sobre la experiencia de los alumnos. \
+Finalmente, los datos se comparan para identificar convergencias o divergencias entre los hallazgos cuantitativos y cualitativos. \
 :::
 
 :::{figure}

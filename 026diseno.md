@@ -59,6 +59,11 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
     * Secuencial/Iterativo
     * Concurrente/Simultáneo
 
+Dentro de esta categorización, se encuentras dos metodologías recomendadas en este Máster, que pueden adoptar formas cuantitativas, cualitativas o mixtas:
+
+* Revisión Sistemática de la Literatura (RSL)
+* Investigación Basada en Diseño (DBR)
+
 **(b) Reflexiona sobre la calidad de una investigación**
 
 Se mide a través de diferentes criterios que aseguran la validez, fiabilidad y aplicabilidad de los resultados. Los criterios de calidad en {term}`investigación cuantitativa` son: 

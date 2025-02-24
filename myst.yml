@@ -23,7 +23,9 @@ project:
       title: Guía Didáctica TFM
   abbreviations:
      MITE: Metodología de Investigación en Tecnología Educativa
-     TFM: Trabajo Fin de Máster∫
+     TFM: Trabajo Fin de Máster
+     DBR: Investigación Basada en Diseño
+     RSL: Revisión Sistemática de la Literatura
 
   authors:
     - name: Daniel Losada

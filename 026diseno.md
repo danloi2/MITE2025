@@ -42,27 +42,49 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
 **(a) Define el tipo de investigación**
     
 * {term}`investigación cuantitativa`
-    * Descriptivo
-    * Correlacional
-    * Causal/Comparativo
-    * No Experimental
-    * Cuasi-experimental
-    * Experimental
+    * Descriptivo: Busca describir características y fenómenos educativos, como el rendimiento académico de los estudiantes, la prevalencia de ciertos comportamientos o las actitudes de los docentes.
+    * Correlacional:  Explora la relación entre dos o más variables educativas, como la relación entre el nivel socioeconómico y el rendimiento académico, o entre la motivación y la participación en clase.
+    * Causal/Comparativo: Investiga relaciones de causa y efecto en el ámbito educativo, como el impacto de una nueva metodología de enseñanza en el aprendizaje de los estudiantes, o la efectividad de diferentes programas de intervención.
+    * No Experimental: Observa fenómenos educativos sin manipular variables, como estudios observacionales sobre el comportamiento de los estudiantes en el aula, o investigaciones sobre las prácticas de enseñanza de los docentes.
+    * Cuasi-experimental: Manipula variables en contextos educativos reales, pero sin asignación aleatoria de participantes, como la evaluación de un programa de tutoría en una escuela donde no es posible asignar estudiantes aleatoriamente a grupos de control y experimental.
+    * Experimental: Manipula variables y asigna participantes aleatoriamente a grupos de control y experimental, como ensayos controlados aleatorios para evaluar la eficacia de intervenciones educativas específicas.
 * {term}`investigación cualitativa`
-    * Narrativo
-    * Fenomenológico
-    * Etnográfico
-    * Investigación-acción
-    * Estudio de caso
-    * Teoría fundamentada
+    * Narrativo: Explora cómo los estudiantes, docentes u otros actores educativos construyen y dan sentido a sus experiencias a través de historias y relatos.
+    * Fenomenológico: Describe la esencia de un fenómeno educativo desde la perspectiva de quienes lo experimentan, como la experiencia de ser un estudiante con dislexia, o la vivencia de un docente al implementar una nueva metodología.
+    * Etnográfico: Estudia la cultura y prácticas de un grupo o comunidad educativa en su entorno natural, como la cultura de un aula, o las prácticas de enseñanza en una escuela rural.
+    * Investigación-acción: Busca resolver problemas prácticos en un contexto educativo específico, a través de ciclos de acción y reflexión. Los docentes, por ejemplo, pueden investigar cómo mejorar la participación de los estudiantes en clase.
+    * Estudio de caso: Analiza en profundidad un caso particular (estudiante, docente, programa, institución) para comprender su complejidad y singularidad.
+    * Teoría fundamentada: Desarrolla teorías que expliquen fenómenos educativos a partir de los datos recopilados, como la teoría sobre cómo se construye la identidad profesional de los docentes.
 * {term}`investigación mixta`
-    * Secuencial/Iterativo
-    * Concurrente/Simultáneo
+    * Secuencial/Iterativo: Utiliza métodos cuantitativos y cualitativos en fases sucesivas, por ejemplo, primero se realiza un estudio cuantitativo para identificar tendencias, y luego se realiza un estudio cualitativo para profundizar en la comprensión de esas tendencias.
+    * Concurrente/Simultáneo: Utiliza métodos cuantitativos y cualitativos al mismo tiempo, por ejemplo, se recopilan datos de encuestas y entrevistas simultáneamente para obtener una visión más completa del fenómeno estudiado.
 
 Dentro de esta categorización, se encuentras dos metodologías recomendadas en este Máster, que pueden adoptar formas cuantitativas, cualitativas o mixtas:
 
-* Revisión Sistemática de la Literatura (RSL)
-* Investigación Basada en Diseño (DBR)
+* **Revisión Sistemática de la Literatura (RSL)**: Es una metodología de investigación que busca **sintetizar la evidencia existente sobre un tema específico de manera rigurosa y sistemática**. A diferencia de las revisiones tradicionales, que pueden ser más subjetivas y no exhaustivas, las RSL siguen un **proceso estructurado** para identificar, seleccionar, evaluar críticamente y analizar los estudios relevantes.
+    * **RSL de enfoque Cuantitativo**: Pueden **revisar estudios cuantitativos para sintetizar los hallazgos sobre la efectividad de intervenciones, la relación entre variables o la prevalencia de fenómenos educativos**. Por ejemplo, una RSL podría analizar todos los estudios experimentales sobre el impacto de la gamificación en el aprendizaje de matemáticas.
+    
+    * **RSL de enfoque Cualitativo**: Pueden **revisar estudios cualitativos para sintetizar las experiencias, perspectivas y significados de los participantes sobre un fenómeno educativo**. Por ejemplo, una RSL podría analizar todos los estudios fenomenológicos sobre la experiencia de ser un estudiante con TDAH en el aula.
+    
+    * **RSL  de enfoque Mixto**: Pueden **revisar estudios que combinan métodos cuantitativos y cualitativos*para obtener una comprensión más completa de un problema educativo**. Por ejemplo, una RSL podría analizar estudios que combinan encuestas y entrevistas para investigar la relación entre la motivación y el rendimiento académico
+
+    Existen una serie de guías para la realización de RSL avaladas por expertos. Las más conocidas son: PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) y SALSA (Search, Appraisal, Synthesis and Analysis)
+
+    * **PRISMA**: es una **guía para la presentación de informes de revisiones sistemáticas y meta-análisis**. Proporciona una **lista de verificación de elementos que deben incluirse en un informe de RSL para garantizar la transparencia y la integridad del proceso**.Ayuda a los investigadores a comunicar de manera clara y completa los resultados de sus revisiones, desde la identificación y selección de estudios hasta la síntesis de los resultados y las conclusiones.
+
+        [Web de PRISMA](https://www.prisma-statement.org/)
+
+
+    * **SALSA**; es un **marco metodológico para realizar revisiones sistemáticas de estudios cualitativos**. Proporciona **una estructura para buscar, evaluar, sintetizar y analizar estudios cualitativos de manera sistemática y rigurosa**. Guía a los investigadores en cada etapa del proceso de revisión, desde la formulación de la pregunta de investigación hasta la interpretación de los resultados.
+
+    [Investigador Experto en RSL](https://www.lluiscodina.com/)
+
+    [Scoping Reviews](https://drive.google.com/drive/folders/1mi3whmJxMmE2qmMGeVkVZduZ5ebIHOM3)
+
+* **Investigación Basada en Diseño (DBR)**: Es una **metodología de investigación iterativo y cíclico que busca diseñar y evaluar intervenciones complejas en contextos del mundo real**, con el objetivo de generar conocimiento teórico y práctico. Se centra en resolver problemas prácticos y mejorar situaciones específicas, a la vez que contribuye a la teoría y al diseño.
+    * **DBR de enfoque Cuantitativo**: Puede **utilizar métodos cuantitativos para evaluar la efectividad de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar experimentos o cuasi-experimentos para medir el impacto de una nueva metodología de enseñanza en el rendimiento de los estudiantes.
+    * **DBR de enfoque Cualitativo**: Puede **utilizar métodos cualitativos para comprender las experiencias y perspectivas de los participantes en relación con las intervenciones diseñadas**. Por ejemplo, se pueden utilizar entrevistas o grupos focales para explorar cómo los estudiantes perciben una nueva herramienta de aprendizaje en línea.
+    * **DBR de enfoque Mixto**: Puede **combinar métodos cuantitativos y cualitativos para obtener una comprensión más completa de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar encuestas para medir el impacto general de una intervención, y entrevistas para explorar las experiencias individuales de los participantes.
 
 **(b) Reflexiona sobre la calidad de una investigación**
 

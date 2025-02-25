@@ -77,9 +77,9 @@ Dentro de esta categorización, se encuentras dos metodologías recomendadas en 
 
     * **SALSA**; es un **marco metodológico para realizar revisiones sistemáticas de estudios cualitativos**. Proporciona **una estructura para buscar, evaluar, sintetizar y analizar estudios cualitativos de manera sistemática y rigurosa**. Guía a los investigadores en cada etapa del proceso de revisión, desde la formulación de la pregunta de investigación hasta la interpretación de los resultados.
 
-    [Investigador Experto en RSL](https://www.lluiscodina.com/)
+        [Investigador Experto en RSL](https://www.lluiscodina.com/)
 
-    [Scoping Reviews](https://drive.google.com/drive/folders/1mi3whmJxMmE2qmMGeVkVZduZ5ebIHOM3)
+        [Scoping Reviews](https://drive.google.com/drive/folders/1mi3whmJxMmE2qmMGeVkVZduZ5ebIHOM3)
 
 * **Investigación Basada en Diseño (DBR)**: Es una **metodología de investigación iterativo y cíclico que busca diseñar y evaluar intervenciones complejas en contextos del mundo real**, con el objetivo de generar conocimiento teórico y práctico. Se centra en resolver problemas prácticos y mejorar situaciones específicas, a la vez que contribuye a la teoría y al diseño.
     * **DBR de enfoque Cuantitativo**: Puede **utilizar métodos cuantitativos para evaluar la efectividad de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar experimentos o cuasi-experimentos para medir el impacto de una nueva metodología de enseñanza en el rendimiento de los estudiantes.

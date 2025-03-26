@@ -156,7 +156,7 @@ Elije la herramienta TIC adecuada
   - Se comenta superficialmente cómo se hará el análisis de datos, pero sin proporcionar detalles claros o útiles.
   - Está definido el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos), pero carece de detalles importantes o no está completamente alineado con el diseño de investigación.
   - Está bien definido el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos) y es coherente con el diseño de investigación, aunque podría incluir más detalles sobre herramientas informáticas o métodos específicos.
-  - Está definido y ordenado el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos), es coherente con el diseño de investigación, e identifica herramientas informáticas (ATLAS TI, NVIVO, SPSS) para facilitar este proceso.
+  - Está definido y ordenado el proceso que se seguirá para el análisis de datos (cualitativos y/o cuantitativos), es coherente con el diseño de investigación, e identifica herramientas informáticas (ATLAS TI, NVIVO, SPSS, R, Excel...) para facilitar este proceso.
 
 * - **Planificación y Cronograma**
   - No presenta una planificación temporal del proyecto.
